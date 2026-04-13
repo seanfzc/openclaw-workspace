@@ -1,0 +1,12 @@
+{
+  "problem_id": "G001",
+  "geometry_type": "G1",
+  "timestamp": "20260413_143401",
+  "pdf_filename": "G001_G1_20260413_143401.pdf",
+  "problem": "Measure the angles \u2220A, \u2220B, and \u2220C in the diagram using a protractor.",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

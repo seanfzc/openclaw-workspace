@@ -1,0 +1,12 @@
+{
+  "problem_id": "G025",
+  "geometry_type": "G4",
+  "timestamp": "20260413_143403",
+  "pdf_filename": "G025_G4_20260413_143403.pdf",
+  "problem": "A pie chart shows a sector with angle 90\u00b0. What fraction of the whole does this sector represent?",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

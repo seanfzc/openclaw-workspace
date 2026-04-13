@@ -1,0 +1,12 @@
+{
+  "problem_id": "G024",
+  "geometry_type": "G4",
+  "timestamp": "20260413_143403",
+  "pdf_filename": "G024_G4_20260413_143403.pdf",
+  "problem": "A circle has radius 7 cm. Find its circumference (take \u03c0 = 22/7).",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

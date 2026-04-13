@@ -1,0 +1,12 @@
+{
+  "problem_id": "G022",
+  "geometry_type": "G4",
+  "timestamp": "20260413_143403",
+  "pdf_filename": "G022_G4_20260413_143403.pdf",
+  "problem": "Classify the triangle with angles 45\u00b0, 45\u00b0, 90\u00b0.",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

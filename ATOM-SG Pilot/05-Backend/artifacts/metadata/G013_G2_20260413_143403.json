@@ -1,0 +1,12 @@
+{
+  "problem_id": "G013",
+  "geometry_type": "G2",
+  "timestamp": "20260413_143403",
+  "pdf_filename": "G013_G2_20260413_143403.pdf",
+  "problem": "Convert 3.5 m to cm, and 250 cm to m.",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

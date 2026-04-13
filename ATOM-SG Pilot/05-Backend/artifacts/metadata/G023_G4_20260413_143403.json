@@ -1,0 +1,12 @@
+{
+  "problem_id": "G023",
+  "geometry_type": "G4",
+  "timestamp": "20260413_143403",
+  "pdf_filename": "G023_G4_20260413_143403.pdf",
+  "problem": "Identify the quadrilateral: It has two pairs of parallel sides, all sides equal, and angles are not 90\u00b0.",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

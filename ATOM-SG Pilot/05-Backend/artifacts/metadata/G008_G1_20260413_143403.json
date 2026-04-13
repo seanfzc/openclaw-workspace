@@ -1,0 +1,12 @@
+{
+  "problem_id": "G008",
+  "geometry_type": "G1",
+  "timestamp": "20260413_143403",
+  "pdf_filename": "G008_G1_20260413_143403.pdf",
+  "problem": "Measure the reflex angle \u2220R in the diagram (angle greater than 180\u00b0).",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

@@ -1,0 +1,12 @@
+{
+  "problem_id": "G004",
+  "geometry_type": "G1",
+  "timestamp": "20260413_143402",
+  "pdf_filename": "G004_G1_20260413_143402.pdf",
+  "problem": "In the diagram, two straight lines intersect. If one angle is 40\u00b0, find the other three angles.",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}

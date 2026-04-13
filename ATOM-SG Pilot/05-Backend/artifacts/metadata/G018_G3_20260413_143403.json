@@ -1,0 +1,12 @@
+{
+  "problem_id": "G018",
+  "geometry_type": "G3",
+  "timestamp": "20260413_143403",
+  "pdf_filename": "G018_G3_20260413_143403.pdf",
+  "problem": "Find the volume of a box with dimensions 0.5 m \u00d7 30 cm \u00d7 200 mm. Give answer in cm\u00b3.",
+  "subpathway": "",
+  "shadow": "",
+  "notes": "",
+  "render_tool": "matplotlib",
+  "render_version": "1.0"
+}
