@@ -15,10 +15,10 @@
 
 ### ATOM-SG Project Specifics
 **Project:** Operation Vertical Thread (Syllabus Digital Twin)
-**Current Phase:** P6 Pilot Validation (schema v4.1)
+**Current Phase:** SOR v4.5 Pilot Validation
 **Cost Decisions Made:**
-1. **Vision API:** Not available (404 errors) → use manual extraction for validation
-2. **OCR:** Tesseract APPROVED (installation in progress) → automated extraction for scale
+1. **Vision API:** Not available (404 errors on multiple models)
+2. **OCR:** Tesseract APPROVED (installation in progress)
 3. **Claude API:** Using `claude-sonnet-4-6` for text analysis (not vision)
 4. **Heuristic:** Manual validation first, automation for production
 
@@ -49,7 +49,7 @@
 - Updated `Geometry‑Rubrics.md` template with nano‑node examples
 - Aligned with ATOM‑SG schema v4.1 logic families
 - Created memory log for continuity
-- **Baseline Test Framework:** Developed comprehensive geometry sub-pathway structure (4 threads: G1 Angle Reasoning, G2 Area & Perimeter, G3 Volume & 3D, G4 Properties & Classification) with equation shadows, 25-item distribution proposal, and enhanced diagnostic rubric (4 dimensions, 5 points max per item)
+- **Baseline Test Framework:** Developed comprehensive geometry sub‑pathway structure (4 threads: G1 Angle Reasoning, G2 Area & Perimeter, G3 Volume & 3D, G4 Properties & Classification) with equation shadows, 25‑item distribution proposal, and enhanced diagnostic rubric (4 dimensions, 5 points max per item)
 - **GeoBot Alignment:** Integrated with GeoBot's Problem‑Pack Plan (25 items mapped to nano‑nodes, sub‑pathways G1‑G4)
 - **Taxonomy Approval:** Sean approved nano‑nodes (2026‑04‑13)
 - **Rubric Progress:** Populated `Geometry‑Rubrics.md` with 5 detailed examples (angle measurement, area of composite rectangles, angle properties, circle circumference/area, quadrilateral classification)
@@ -64,14 +64,13 @@
 
 **Next Steps:**
 1. ✅ Taxonomy review completed (approved)
-2. Validate sub-pathways against P6 syllabus (in progress via GeoBot mapping)
+2. Validate sub‑pathways against P6 syllabus (in progress via GeoBot mapping)
 3. ✅ Item distribution balanced via GeoBot's 25‑item plan
 4. ✅ 25 problem files drafted (GeoBot T1)
-5. Create Second Brain nodes for geometry nano-nodes
-6. ✅ Rubric mapping finalised (`Geometry‑Rubric‑Mapping.md`) — 100% threshold, Zone A = Level 2, G007 tightened
-7. ✅ T3 DONE (rubric mapping & acceptance criteria)
-8. RenderBot to begin diagram rendering (T4)
-9. OcrBot OCR pipeline readiness (T5)
+5. Create Second Brain nodes for geometry nano‑nodes
+6. ✅ Rubric mapping finalised (`Geometry‑Rubric‑Mapping.md`) — 100% threshold, Zone A = Level 2, G007 tightened (T3 DONE)
+7. RenderBot to begin diagram rendering (T4)
+8. OcrBot OCR pipeline readiness (T5)
 
 ### Technical Limitations Learned
 1. **PDF Quality:** Singapore P6 exam papers (2025) are scanned images with minimal OCR text
@@ -117,7 +116,7 @@
 
 **Deployment Artifact Patterns:**
 1. **Docker multi‑stage build:** Builder stage with compile‑time dependencies, runtime stage with minimal footprint
-2. **System‑aware install script:** Detect OS (macOS/Ubuntu/RHEL/Arch), install system packages (Tesseract, libraries), set up Python venv
+2. **System‑aware install script:** Detects OS (macOS/Ubuntu/RHEL/Arch), installs system packages (Tesseract, libraries), set up Python venv
 3. **Configuration templating:** `.env.example` with sensible defaults, documentation of all environment variables
 4. **Backup automation:** Scheduled backups with retention policy (keep last 30), easy restore procedure
 5. **Health monitoring:** Built‑in health check endpoint (`/api/v1/system/health`), Docker HEALTHCHECK, systemd service file
@@ -199,7 +198,7 @@
 3. **System‑aware install script** – Detects macOS, Ubuntu, RHEL, Arch; installs system packages, Python venv
 4. **Configuration templating** – `.env.example` with sensible defaults
 5. **Backup automation** – Daily backups keeping last 30, easy restore procedure
-6. **Health monitoring** – Built‑in health endpoint (`/api/v1/system/health`), cron‑ready health check script
+6. **Health monitoring** – Built‑in health endpoint, cron‑ready health check script
 7. **Service management** – systemd service file generation for Linux production
 8. **Frontend serving** – Backend modified to serve `index.html` at root with SPA catch‑all route
 9. **Pilot launch checklist** – 11‑day countdown with clear milestones and success criteria
@@ -247,4 +246,5 @@
 **Impact:** Prevents repetition of P0‑6 issues; ensures diagrams are pedagogically sound and geometrically complete. Provides separate, focused skills for auditing (tester) and rendering (agent) workflows.
 
 ---
+
 *Memory maintenance: Review weekly, distill key learnings, remove outdated entries*
