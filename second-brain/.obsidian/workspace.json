@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "314785e651520727",
+    "type": "split",
+    "children": [
+      {
+        "id": "54980dd72a23d1b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03c74ec692afe35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbb24334ae41405e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ada342c58369d9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d14e1043785507e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de53e5ce25787f66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5a0ddfd00ad112f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05cfab7261e8b931",
+    "type": "split",
+    "children": [
+      {
+        "id": "c66bc22e1e3b0b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ed7c3ee1946e5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system."
+            }
+          },
+          {
+            "id": "a0082f90ed2664af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system."
+            }
+          },
+          {
+            "id": "094598eb0d797e77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b272054023949977",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5139e63f138dc8d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system..md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system."
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d03c74ec692afe35",
+  "lastOpenFiles": [
+    "raw/Obsidian + ByteRover Your Personal Knowledge Base Now Lives Inside Every AI Coding Agent.md",
+    "raw/OpenClaw fails on its own. Here's what makes it a repeatable revenue-generating system..md",
+    "raw/The Ultimate Hermes Guide - from one agent to a 4-profile team that still feels coherent on day 30.md",
+    "raw/AI Agent Stack Everyone Must Use in 2026 (Builder’s Guide).md",
+    "raw/Thread by @gkisokay.md",
+    "raw/Resolvers The Routing Table for Intelligence.md",
+    "raw/How to Go Viral on X.md",
+    "Clippings",
+    "raw/templates/render_node.py",
+    "raw/templates/next_batch_queue.json",
+    "raw/templates/forge_node.py",
+    "raw/templates/example_node_config.json",
+    "raw/templates/atomic_node_template.md",
+    "raw/templates",
+    "raw/ROSYTH-P6-ALG-12.md",
+    "raw/ROSYTH-P6-ALG-11.md",
+    "raw/ROSYTH-P6-ALG-10.md",
+    "raw/ROSYTH-P6-ALG-09.md",
+    "raw/ROSYTH-P6-ALG-08.md",
+    "raw/ROSYTH-P6-ALG-07.md",
+    "raw/ROSYTH-P6-ALG-06.md",
+    "raw/ROSYTH-P6-ALG-05.md",
+    "raw/ROSYTH-P6-ALG-04.md",
+    "raw/ROSYTH-P6-ALG-03.md",
+    "raw/ROSYTH-P6-ALG-02.md",
+    "raw/ROSYTH-P6-ALG-01.md",
+    "raw/P5-H3-EquationFraction.md",
+    "raw/P5-H2-RatioRemainder.md",
+    "raw/P5-H1-RatioEquation.md",
+    "raw/P4-M3-OffsetRemoval.md",
+    "raw/P4-F3-RemainderChaining.md",
+    "raw/P4-F2-RemainderAction.md"
+  ]
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Baseline Load</title>
+</head>
+<body>
+    <div id="page-baseline" class="page"></div>
+    <button id="print-baseline">Print</button>
+    <form id="upload-baseline-form"><input type="file" id="baseline-file"></form>
+    <div id="baseline-upload-status"></div>
+    <div id="baseline-results"></div>
+    <div id="gap-map"></div>
+    
+    <script src="http://192.168.2.6/static/js/api.js"></script>
+    <script src="http://192.168.2.6/static/js/navigation.js"></script>
+    <script src="http://192.168.2.6/static/js/baseline.js"></script>
+    <script>
+        // Wait a bit then check
+        setTimeout(() => {
+            console.log('Test: baseline variable exists?', typeof baseline);
+            console.log('Test: window.baseline exists?', typeof window.baseline);
+        }, 2000);
+    </script>
+</body>
+</html>

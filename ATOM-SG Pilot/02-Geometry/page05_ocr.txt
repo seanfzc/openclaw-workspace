@@ -1,0 +1,26 @@
+Five letters are drawn on the square grid.
+
+How many of the letters have both perpendicular and parallel lines?
+
+(1) 5
+(2) 2
+(3) 3
+(4) 4
+
+The table shows the departure times of buses A, B, C and D at the Bus
+Terminal.
+
+a
+| B 1330
+| Cc | 1415
+
+D | 1500
+
+Keith arrived at the Bus Terminal at 1 p.m. Which is the earliest bus he can
+take?
+
+(1) A
+(2) B
+(3) Cc
+
+(4) OD

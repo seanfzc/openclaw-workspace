@@ -1,0 +1,74 @@
+{
+  "total_questions": 4,
+  "claude_used": 1,
+  "heuristics_only": 3,
+  "visual_types": {
+    "counting_objects": 4
+  },
+  "questions": [
+    {
+      "question_id": "2021 P1 Maths Revisions Mgs-Q1",
+      "question_number": "1",
+      "text": "Count the pencils and write the number. tltltltltftftltftftl tltltltftltltltltl",
+      "page": 1,
+      "visual_type": "counting_objects",
+      "visual_role": "Two rows of pencil illustrations (10 on top, 9 on bottom) that students must count to determine the total number and write it in the answer box.",
+      "detection_method": "claude_batch",
+      "confidence": 0.5,
+      "claude_used": true,
+      "answer_logic": "Count objects, write C",
+      "context_variables": [
+        "Count"
+      ],
+      "answer": "C",
+      "source_pdf": "2021 P1 Maths Revisions Mgs"
+    },
+    {
+      "question_id": "2021 P1 Maths Revisions Mgs-Q2",
+      "question_number": "2",
+      "text": "Write the number below in words. 15",
+      "page": 1,
+      "visual_type": "counting_objects",
+      "visual_role": "Two rows of pencil illustrations (10 on top, 9 on bottom) that students must count to determine the total number and write it in the answer box.",
+      "detection_method": "claude_cache",
+      "confidence": 0.5,
+      "claude_used": false,
+      "answer_logic": "Solve problem, write answer in box",
+      "context_variables": [
+        "Write"
+      ],
+      "answer": null,
+      "source_pdf": "2021 P1 Maths Revisions Mgs"
+    },
+    {
+      "question_id": "2021 P1 Maths Revisions Mgs-Q3",
+      "question_number": "3",
+      "text": "6+ D www.sgexam.com :: 10 I",
+      "page": 1,
+      "visual_type": "counting_objects",
+      "visual_role": "Two rows of pencil illustrations (10 on top, 9 on bottom) that students must count to determine the total number and write it in the answer box.",
+      "detection_method": "claude_cache",
+      "confidence": 0.5,
+      "claude_used": false,
+      "answer_logic": "Add numbers, write sum",
+      "context_variables": [],
+      "answer": null,
+      "source_pdf": "2021 P1 Maths Revisions Mgs"
+    },
+    {
+      "question_id": "2021 P1 Maths Revisions Mgs-Q4",
+      "question_number": "4",
+      "text": "12 - 3 = l www.sgexam.com",
+      "page": 1,
+      "visual_type": "counting_objects",
+      "visual_role": "Two rows of pencil illustrations (10 on top, 9 on bottom) that students must count to determine the total number and write it in the answer box.",
+      "detection_method": "claude_cache",
+      "confidence": 0.5,
+      "claude_used": false,
+      "answer_logic": "Subtract numbers, write difference 1",
+      "context_variables": [],
+      "answer": "1",
+      "source_pdf": "2021 P1 Maths Revisions Mgs"
+    }
+  ]
+}

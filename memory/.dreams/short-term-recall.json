@@ -1,0 +1,978 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-19T07:23:21.763Z",
+  "entries": {
+    "memory:memory/2026-04-08.md:521:532": {
+      "key": "memory:memory/2026-04-08.md:521:532",
+      "path": "memory/2026-04-08.md",
+      "startLine": 521,
+      "endLine": 532,
+      "source": "memory",
+      "snippet": "## Cost-Optimized Workflow Validation **Status:** ✅ Implemented and integrated **Next Test:** Apply to P6 question extraction (OCR + analysis) **Success Metrics:** - Token reduction in conversation history - API cost per question decreasing over time - Wiki reference frequency increasing - Processing accuracy maintaining or improving --- **Summary:** Cost-optimization skill fully implemented, Tesseract approved, ready for automated P6 extraction with token-efficient workflow and Second Brain integration.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.775159664741344,
+      "maxScore": 0.775159664741344,
+      "firstRecalledAt": "2026-04-13T00:05:26.943Z",
+      "lastRecalledAt": "2026-04-13T00:05:26.943Z",
+      "queryHashes": [
+        "aaa25bb49372"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "cost-optimized",
+        "cost-optimization",
+        "token-efficient",
+        "cost",
+        "optimized",
+        "workflow",
+        "validation",
+        "status"
+      ]
+    },
+    "memory:memory/2026-04-08.md:493:531": {
+      "key": "memory:memory/2026-04-08.md:493:531",
+      "path": "memory/2026-04-08.md",
+      "startLine": 493,
+      "endLine": 531,
+      "source": "memory",
+      "snippet": "4. Create vertical knowledge graph visualization ### Phase 4: Final Pilot Deliverables 1. 15-question corpus (5 P1 + 10 P6) with validated schema 2. Cost optimization report (manual vs OCR vs API) 3. Education lens adaptations (age-specific game designs) 4. Second Brain wiki integration (all knowledge compounded) ## Critical Success Factors ### Technical 1. **OCR Accuracy:** Sufficient for question extraction (needs testing) 2. **Schema Compliance:** All 15 questions must pass v4.1 validation 3. **Backward Linking:** Pedagogically sound P6→P1 connections 4. **Cost Tracking:** Document API usage for future optimization ### Educational 1. **Age Appropriateness:** Game designs match 6yo/11y",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7114028458705609,
+      "maxScore": 0.7114028458705609,
+      "firstRecalledAt": "2026-04-13T00:05:26.943Z",
+      "lastRecalledAt": "2026-04-13T00:05:26.943Z",
+      "queryHashes": [
+        "aaa25bb49372"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "15-question",
+        "age-specific",
+        "v4.1",
+        "6yo/11y",
+        "create",
+        "vertical",
+        "knowledge",
+        "graph"
+      ]
+    },
+    "memory:memory/2026-04-08.md:465:503": {
+      "key": "memory:memory/2026-04-08.md:465:503",
+      "path": "memory/2026-04-08.md",
+      "startLine": 465,
+      "endLine": 503,
+      "source": "memory",
+      "snippet": "- **Wiki references:** Replace re-explanation with `[[page]]` links - **API decision hierarchy:** Manual first, automate for scale - **Education lens:** Adds value without increasing cost ### Expected Cost Savings 1. **Token Reduction:** 200-300 token summaries vs 2000+ token history 2. **API Optimization:** OCR vs Vision API (10x cost difference) 3. **Knowledge Compounding:** Wiki reduces need for repeated explanations 4. **Error Reduction:** Manual validation prevents expensive rework ## Next Actions (After Tesseract Installation) ### Phase 1: OCR Setup (Immediate) 1. Install Tesseract: `brew install tesseract` 2. Install Python libraries: `pytesseract`, `Pillow` 3. Test extraction on R",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7021954444921169,
+      "maxScore": 0.7021954444921169,
+      "firstRecalledAt": "2026-04-13T00:05:26.943Z",
+      "lastRecalledAt": "2026-04-13T00:05:26.943Z",
+      "queryHashes": [
+        "aaa25bb49372"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "re-explanation",
+        "200-300",
+        "wiki",
+        "references",
+        "replace",
+        "explanation",
+        "page",
+        "links"
+      ]
+    },
+    "memory:memory/2026-04-13.md:23:51": {
+      "key": "memory:memory/2026-04-13.md:23:51",
+      "path": "memory/2026-04-13.md",
+      "startLine": 23,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "- ⏳ Awaiting sample handwritten image from Sean's son for OCR baseline test ### Proactive Updates - User requested proactive updates to `subagentcomms.md` at least once daily or when updates occur - Updated `subagentcomms.md` with OCR thread status and project summaries - Maintaining cost‑optimized workflow with Karpathy Second Brain skill ### Geometry Baseline Test Framework - **Thread:** \"Baseline Test\" in Zcaeth OpenClaw Telegram group (topic ID 55) - **Objective:** Week 1 baseline item batch (geometry focus), 20–25 items, accuracy goal ≥80% - **Framework Developed:** - 4 geometry sub-pathways: G1 Angle Reasoning, G2 Area & Perimeter, G3 Volume & 3D, G4 Properties & Classification -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7437826413970059,
+      "maxScore": 0.7437826413970059,
+      "firstRecalledAt": "2026-04-13T00:31:55.774Z",
+      "lastRecalledAt": "2026-04-13T00:31:55.774Z",
+      "queryHashes": [
+        "6120f8bdb378"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "subagentcomms.md",
+        "sub-pathways",
+        "awaiting",
+        "sample",
+        "handwritten",
+        "image",
+        "sean's",
+        "ocr"
+      ]
+    },
+    "memory:memory/2026-04-13.md:43:57": {
+      "key": "memory:memory/2026-04-13.md:43:57",
+      "path": "memory/2026-04-13.md",
+      "startLine": 43,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "- **Next Steps (pending approval):** - Validate sub-pathways against P6 syllabus - Adjust item distribution balance - Draft 25 actual problems with explicit equation-shadow mapping - Create Second Brain nodes for geometry nano-nodes - Finalize rubrics and scoring sheets ## Next Actions 1. Await sample handwritten image for OCR testing 2. Test existing OCR script on sample to establish baseline accuracy 3. Enhance OCR script with image pre‑processing for handwriting improvement 4. Plan computer vision approach for graphical elements (bar models, charts, etc.) --- *Recorded: 2026-04-13 08:20 GMT+8*",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6908868654695834,
+      "maxScore": 0.6908868654695834,
+      "firstRecalledAt": "2026-04-13T00:31:55.774Z",
+      "lastRecalledAt": "2026-04-13T00:31:55.774Z",
+      "queryHashes": [
+        "6120f8bdb378"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "sub-pathways",
+        "equation-shadow",
+        "nano-nodes",
+        "steps",
+        "pending",
+        "approval",
+        "validate",
+        "sub"
+      ]
+    },
+    "memory:memory/2026-04-08.md:1:40": {
+      "key": "memory:memory/2026-04-08.md:1:40",
+      "path": "memory/2026-04-08.md",
+      "startLine": 1,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "# 2026-04-08 - Operation Vertical Thread Pilot Execution **Project:** ATOM-SG (Pedagogical Engine) **Phase:** Pilot Execution with Enhanced Feedback Incorporation **Time:** 15:20 SGT ## Mission Context Review - Received independent feedback document on ATOM-SG approach - Feedback validated core \"Logic-First\" approach with specific enhancements - User requested immediate incorporation of feedback points into pilot execution ## Key Feedback Points to Incorporate: ### 1. Enhanced 4-Axis Complexity Scoring - Add \"Contextual Load\" axis: How much real-world knowledge is assumed? - Weight axes differently based on age/grade level - Benchmark against actual child performance (simulated) ### 2.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7200183979244924,
+      "maxScore": 0.7200183979244924,
+      "firstRecalledAt": "2026-04-13T05:37:04.394Z",
+      "lastRecalledAt": "2026-04-13T05:37:04.394Z",
+      "queryHashes": [
+        "7cff19c1f4c1"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "atom-sg",
+        "logic-first",
+        "4-axis",
+        "real-world",
+        "age/grade",
+        "operation",
+        "vertical",
+        "thread"
+      ]
+    },
+    "memory:memory/2026-04-15.md:223:250": {
+      "key": "memory:memory/2026-04-15.md:223:250",
+      "path": "memory/2026-04-15.md",
+      "startLine": 223,
+      "endLine": 250,
+      "source": "memory",
+      "snippet": "- **P1 High Priority:** All verified and complete (visual validation, submit button, timer, expandable feedback) - **P2 Medium Priority:** White space improvements for geometry problems - **Files Modified:** - `main.py`: ~30 lines added (gaming detection consequences) - `practice.js`: ~80 lines added (cooldown handling, timer display) - `style.css`: ~20 lines added (white space improvements) - **Subagent Stats:** 5m 11s runtime, 62.3k tokens, timed out during verification - **MVP Status:** ✅ **READY FOR LAUNCH** (all fixes implemented, manual verification recommended) - **Next:** Manual verification → Pilot launch (Week 2, 2026-04-26) ## Independent UX Testing Complete - **Task:**",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.4758723517436447,
+      "maxScore": 0.7711799016478912,
+      "firstRecalledAt": "2026-04-17T02:21:09.362Z",
+      "lastRecalledAt": "2026-04-17T06:16:57.387Z",
+      "queryHashes": [
+        "6104a29cb9fb",
+        "afc8641738f0"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "main.py",
+        "practice.js",
+        "style.css",
+        "62.3k",
+        "high",
+        "priority",
+        "all",
+        "verified"
+      ]
+    },
+    "memory:memory/2026-04-15.md:169:206": {
+      "key": "memory:memory/2026-04-15.md:169:206",
+      "path": "memory/2026-04-15.md",
+      "startLine": 169,
+      "endLine": 206,
+      "source": "memory",
+      "snippet": "- **Frontend Files:** `practice.js` (P1 & P2 fixes), `canvas.js` (P0 fixes) - **Bug Fix Summary Report:** In `SubAgentComms.md` ## Kanban Final Status - **DONE (10 tasks):** T1, T2, T3, C1, C2, C3, C4, T4, T5, C5, UAT ✅ - **IN PROGRESS:** None ## MVP Status **Ready for User Acceptance Testing (UAT) - Week 1 (2026-04-19)** All critical bugs blocking UAT have been resolved. Significant UX improvements implemented. MVP is ready for comprehensive testing with 12 student personas covering the full spectrum from perfect to poor. ## Next Steps 1. **UAT Execution:** Have test students run through full 5-week journey 2. **Integration Testing:** Test all user flows end-to-end 3. **Deployment Prepa",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6925133354349144,
+      "maxScore": 0.6925133354349144,
+      "firstRecalledAt": "2026-04-17T02:21:09.362Z",
+      "lastRecalledAt": "2026-04-17T02:21:09.362Z",
+      "queryHashes": [
+        "6104a29cb9fb"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "practice.js",
+        "canvas.js",
+        "subagentcomms.md",
+        "5-week",
+        "end-to-end",
+        "frontend",
+        "fixes",
+        "bug"
+      ]
+    },
+    "memory:memory/2026-04-15.md:139:157": {
+      "key": "memory:memory/2026-04-15.md:139:157",
+      "path": "memory/2026-04-15.md",
+      "startLine": 139,
+      "endLine": 157,
+      "source": "memory",
+      "snippet": "- **Document:** `ATOM-SG Pilot/01-Projects/UAT-TEST-PLAN.md` - **12 Personas Created:** 1. Alex (Perfect Student, 95%+ baseline) 2. Brianna (Above Average, 85% baseline, visual learner) 3. Cameron (Average, 75% baseline, disengaged) 4. Dylan (Below Average, 65% baseline, distracted) 5. Eve (Poor, 50% baseline, major struggles) 6. Fay (Disengaged, 40% baseline, random guessing) 7. Grace (Confused, 55% baseline, wrong pathways) 8. Henry (Anxious, 60% baseline, second-guesses) 9. Ivy (Picky, 70% baseline, critical UI issues) 10. Jack (Cheater/Gamer, random pattern detection) 11. Kevin (Visual Learner, 80% baseline, weak abstract articulation) 12. Liam (Reading Struggles,",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.38197695046862,
+      "maxScore": 0.7503148288649176,
+      "firstRecalledAt": "2026-04-17T02:21:09.362Z",
+      "lastRecalledAt": "2026-04-18T22:44:53.256Z",
+      "queryHashes": [
+        "6104a29cb9fb",
+        "cfdf37c7f0cd"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "atom-sg",
+        "second-guesses",
+        "cheater/gamer",
+        "document",
+        "atom",
+        "pilot",
+        "projects",
+        "uat"
+      ]
+    },
+    "memory:memory/2026-04-15.md:200:228": {
+      "key": "memory:memory/2026-04-15.md:200:228",
+      "path": "memory/2026-04-15.md",
+      "startLine": 200,
+      "endLine": 228,
+      "source": "memory",
+      "snippet": "- Practice Sessions: 88% - Triad Feedback: 100% - Transfer Test: 92% - Ramp-up Analytics: 100% - **Critical Issue Found:** Missing gaming detection (P0 blocking issue) - - **Critical Bugs Fixed:** 8 blocking issues resolved by Backend-Fix-Engineer - **High Priority Fixes:** 15 friction points resolved - **Low Priority Fixes:** 10 nice-to-have improvements implemented - **All 33 Bug Fixes:** Implemented ✅ - **MVP Status:** PRODUCTION-READY (one pre-launch fix: gaming detection recommended) - **Kanban Updated:** All 12 tasks (T1-T5, C1-C5, UAT) marked DONE ✅ ## Pre-Launch Fixes Complete - **Task:** Implement all pre-launch fixes (P0, P1, P2) before launch - **Owner:** Pr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7760633433977543,
+      "maxScore": 0.7760633433977543,
+      "firstRecalledAt": "2026-04-17T06:16:57.387Z",
+      "lastRecalledAt": "2026-04-17T06:16:57.387Z",
+      "queryHashes": [
+        "afc8641738f0"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "ramp-up",
+        "backend-fix-engineer",
+        "nice-to-have",
+        "production-ready",
+        "pre-launch",
+        "t1-t5",
+        "c1-c5",
+        "practice"
+      ]
+    },
+    "memory:memory/2026-04-17.md:571:600": {
+      "key": "memory:memory/2026-04-17.md:571:600",
+      "path": "memory/2026-04-17.md",
+      "startLine": 571,
+      "endLine": 600,
+      "source": "memory",
+      "snippet": "**Ready for human testing using:** [`MVP_FRONTEND_FUNCTIONAL_TEST_PLAN.md`](workspace:/Users/zcaeth/.openclaw/workspace/MVP_FRONTEND_FUNCTIONAL_TEST_PLAN.md) **Critical Manual Tests Required:** 1. Canvas tools (pen, line, text tool, eraser, clear) 2. Baseline PDF upload → OCR → gap‑map display 3. Complete practice session workflow 4. \"I'm Stuck\" button functionality 5. Glossary modal (Ctrl+B shortcut) 6. Gamification (streak counter, achievements) 7. Mobile responsiveness **Infrastructure:** Now automated with backup, firewall, monitoring – requires no further attention unless issues arise. --- ## **Baseline Debugging Session (2026-04-17 10:00+)** **Context:** User in Telegram group \"Zca",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7711799016478912,
+      "maxScore": 0.7711799016478912,
+      "firstRecalledAt": "2026-04-17T06:16:57.387Z",
+      "lastRecalledAt": "2026-04-17T06:16:57.387Z",
+      "queryHashes": [
+        "afc8641738f0"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "backup",
+        "users/zcaeth",
+        "ready",
+        "human",
+        "testing",
+        "users",
+        "zcaeth",
+        "openclaw"
+      ]
+    },
+    "memory:memory/2026-04-17.md:595:628": {
+      "key": "memory:memory/2026-04-17.md:595:628",
+      "path": "memory/2026-04-17.md",
+      "startLine": 595,
+      "endLine": 628,
+      "source": "memory",
+      "snippet": "- Script loading order: baseline.js runs before api.js **Fixes Deployed:** 1. **Enhanced navigation debugging** – logs hash detection, page validation, current page 2. **Safety timeout** – after 300ms, checks hash vs active page and corrects if needed 3. **Baseline API checks** – logs API availability in constructor and printBaseline() 4. **Button event hardening** – added `preventDefault()` + `stopPropagation()` to prevent navigation 5. **Error handling** – printBaseline() catches errors and shows status messages **Diagnostic Script Created:** `diagnose_baseline.js` – one‑liner to check hash, page‑baseline, active state, API, navigation. **Mac Keyboard Shortcuts Provided:** User using Ma",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7711799016478912,
+      "maxScore": 0.7711799016478912,
+      "firstRecalledAt": "2026-04-17T06:16:57.387Z",
+      "lastRecalledAt": "2026-04-17T06:16:57.387Z",
+      "queryHashes": [
+        "afc8641738f0"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "baseline.js",
+        "api.js",
+        "diagnose-baseline.js",
+        "script",
+        "loading",
+        "order",
+        "runs",
+        "fixes"
+      ]
+    },
+    "memory:memory/2026-04-17.md:514:555": {
+      "key": "memory:memory/2026-04-17.md:514:555",
+      "path": "memory/2026-04-17.md",
+      "startLine": 514,
+      "endLine": 555,
+      "source": "memory",
+      "snippet": "- `ATOM‑SG Pilot/05‑Backend/frontend/static/js/api.js` - `ATOM‑SG Pilot/05‑Backend/frontend/static/js/practice.js` - `ATOM‑SG Pilot/01‑Projects/SubAgentComms.md` --- ## **Infrastructure Automation Completed (2026-04-17 07:45)** **User Request:** Option A – Complete infrastructure tasks while team does manual browser testing. **Infrastructure Tasks Implemented:** 1. ✅ **Backup System (`backup.sh`)** - Creates compressed daily backups of artifacts, logs, config - Retention: Keeps last 30 backups - Includes interactive restore script (`restore_backup.sh`) - Cron job: Daily at 2 AM - First backup: `atom‑sg‑backup‑20260417_072133.tar.gz` (288 KB) 2. ✅ **Firewall Configuration (UF",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6210507078878553,
+      "maxScore": 0.6210507078878553,
+      "firstRecalledAt": "2026-04-17T06:16:57.387Z",
+      "lastRecalledAt": "2026-04-17T06:16:57.387Z",
+      "queryHashes": [
+        "afc8641738f0"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "backup",
+        "backups",
+        "pilot/05",
+        "pilot/01",
+        "projects/subagentcomms.md",
+        "backup.sh",
+        "restore-backup.sh",
+        "20260417-072133.tar.gz"
+      ]
+    },
+    "memory:memory/2026-04-17.md:33:62": {
+      "key": "memory:memory/2026-04-17.md:33:62",
+      "path": "memory/2026-04-17.md",
+      "startLine": 33,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "- All coordinates relative to margins - `max_width` for text wrapping set to `content_width - 0.5 inch` - Safety check ensures working box doesn't overlap footer **Code deployed:** - `main.py` updated with margin-based layout - Backend container restarted with new code - Cached PDF deleted (`week_1_test.pdf`) to force regeneration ### **Deployment Status:** - ✅ `index.html` updated in nginx container (button → link) - ✅ `main.py` updated in backend container - ✅ Both containers restarted/reloaded - ✅ Cached PDF removed **Next Steps for User:** 1. **Hard refresh** (`Cmd+Shift+R`) to clear cache 2. **Click START HERE** – should open PDF in new tab (no redirect) 3. **Check PDF layout** – tex",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.4576677898100512,
+      "maxScore": 0.7734064638575122,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-18T22:44:53.256Z",
+      "queryHashes": [
+        "2d4cebb7a40c",
+        "cfdf37c7f0cd"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "max-width",
+        "content-width",
+        "0.5",
+        "main.py",
+        "margin-based",
+        "week-1-test.pdf",
+        "index.html",
+        "restarted/reloaded"
+      ]
+    },
+    "memory:memory/2026-04-16.md:67:94": {
+      "key": "memory:memory/2026-04-16.md:67:94",
+      "path": "memory/2026-04-16.md",
+      "startLine": 67,
+      "endLine": 94,
+      "source": "memory",
+      "snippet": "- Modified `style.css`: Added styles for `.problem-count`, `.session-progress`, `.diagram-help-btn`, `.diagram-note`, `.milestone-requirements`. - Enhanced diagram rendering with conditional notes and help buttons. **Status:** ✅ All 11 medium-priority UX fixes have been implemented or verified as already addressed. ## P0-7 Step-by-Step Scaffolding Implementation **Date:** 2026-04-15 21:30 GMT+8 (request from Telegram group) **Objective:** Implement P0-7 (Step-by-Step Scaffolding) - user requested priority fix to help students learn from mistakes. **Actions Taken:** 1. Spawned sub-agent to implement step-by-step scaffolding for wrong answers 2. Implemented 7 common mistake patterns in bac",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7462242722499951,
+      "maxScore": 0.7462242722499951,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-17T06:45:20.210Z",
+      "queryHashes": [
+        "2d4cebb7a40c"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "style.css",
+        "problem-count",
+        "session-progress",
+        "diagram-help-btn",
+        "diagram-note",
+        "milestone-requirements",
+        "medium-priority",
+        "p0-7"
+      ]
+    },
+    "memory:memory/2026-04-16.md:56:74": {
+      "key": "memory:memory/2026-04-16.md:56:74",
+      "path": "memory/2026-04-16.md",
+      "startLine": 56,
+      "endLine": 74,
+      "source": "memory",
+      "snippet": "6. **Glossary access hidden (5.1)** - Floating glossary button present with book icon. 7. **No tooltips on confusing words (5.2)** - Tooltip system implemented via `tooltip-trigger` CSS class. 8. **Bar model color mismatch (1.4)** - Added explanatory note below bar model diagrams: \"💡 Colors represent different parts of the problem. Match colors to fractions in the question.\" 9. **No way to question diagram (4.3)** - Added \"Confused about diagram?\" button below each diagram, opens alert with guidance. 10. **Print/Scan Baseline Test (2.2)** - Accepted for MVP, post-launch enhancement. 11. **Pathway type names confusing (2.4)** - Already addressed with user-friendly names (e.g., \"Data Problems",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.4095539163674968,
+      "maxScore": 0.7440118028718793,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-19T02:00:55.701Z",
+      "queryHashes": [
+        "2d4cebb7a40c",
+        "a6f6de88e930"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "5.1",
+        "5.2",
+        "tooltip-trigger",
+        "1.4",
+        "4.3",
+        "print/scan",
+        "2.2",
+        "post-launch"
+      ]
+    },
+    "memory:memory/2026-04-16.md:321:356": {
+      "key": "memory:memory/2026-04-16.md:321:356",
+      "path": "memory/2026-04-16.md",
+      "startLine": 321,
+      "endLine": 356,
+      "source": "memory",
+      "snippet": "**Date:** 2026-04-16 12:58 GMT+8 **Action:** Created new VM with 10GB disk (atom‑forge, 2 vCPUs, 4GB RAM, 9.6GB total, 7.8GB free) **Steps:** 1. Deleted previous VM (4.7GB disk insufficient) 2. Launched new VM with 10GB disk (IP: 192.168.2.6) 3. Installed Docker 29.4.0 + Docker Compose v5.1.3 4. Transferred backend artifacts (tar archive) 5. Updated Dockerfile with ARM64 package fix (libgl1, libglvnd0 instead of missing packages) 6. Running Docker Compose build (backend + nginx) **Goal:** Verify multi‑container deployment with nginx reverse proxy. **If successful:** Production deployment ready (Dockerized with reverse proxy). **Next:** Test load‑balancing, SSL termination, health checks.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6874858624035745,
+      "maxScore": 0.6874858624035745,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-17T06:45:20.210Z",
+      "queryHashes": [
+        "2d4cebb7a40c"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "9.6gb",
+        "7.8gb",
+        "4.7gb",
+        "192.168.2.6",
+        "29.4.0",
+        "v5.1.3",
+        "date",
+        "gmt"
+      ]
+    },
+    "memory:memory/2026-04-15.md:28:58": {
+      "key": "memory:memory/2026-04-15.md:28:58",
+      "path": "memory/2026-04-15.md",
+      "startLine": 28,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "- 4 missing endpoints implemented (GET /renders, POST /practice, POST /collision, GET /interpretation) - Design decisions documented (session-based PRIMARY, individual submission optional) - Priority 2 enhancement added (model articulations) ### C4 Complete - **Task:** Align MVP milestones with backend readiness - **Owner:** MVPBot - **Status:** ✅ Complete - **Verdict:** Backend is READY for MVP implementation - **Milestones:** All 7 MVP milestones have required endpoints - **Timeline:** Achievable (12-18 days estimated) - **Gaps:** 3 non-blocking gaps identified (online mode, radar visualization, gamification) - **Files Created:** - `ATOM-SG Pilot/01-Projects/MVP-Backend-Alignment.",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9395704511370527,
+      "maxScore": 0.4703967840029092,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-19T02:00:55.701Z",
+      "queryHashes": [
+        "2d4cebb7a40c",
+        "a6f6de88e930"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "session-based",
+        "12-18",
+        "non-blocking",
+        "atom-sg",
+        "missing",
+        "endpoints",
+        "implemented",
+        "get"
+      ]
+    },
+    "memory:memory/2026-04-14.md:99:114": {
+      "key": "memory:memory/2026-04-14.md:99:114",
+      "path": "memory/2026-04-14.md",
+      "startLine": 99,
+      "endLine": 114,
+      "source": "memory",
+      "snippet": "- File storage structure expanded (collision/, interpretation/) - Key workflows documented (Collision Detection, Data Interpretation) - **API Status updated to:** \"✅ Ready for Independent Review (all endpoints implemented)\" ### 20:20 - MVP Practice Design Clarification - **Sean confirmed:** Session-based practice is PRIMARY for MVP - **Primary use case:** `POST /practice-sessions/{id}/submit` for Weeks 2-5 intervention - **Optional use case:** `POST /practice` for warm-up radar and quick checks - **Implementation guidance:** Frontend should prioritize session-based practice; individual submission as secondary option - **API Spec updated:** Section 7 Design Decisions reflects this clarif",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.45397737248084896,
+      "maxScore": 0.45397737248084896,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-17T06:45:20.210Z",
+      "queryHashes": [
+        "2d4cebb7a40c"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "session-based",
+        "practice-sessions",
+        "2-5",
+        "warm-up",
+        "storage",
+        "structure",
+        "expanded",
+        "collision"
+      ]
+    },
+    "memory:memory/2026-04-15.md:1:36": {
+      "key": "memory:memory/2026-04-15.md:1:36",
+      "path": "memory/2026-04-15.md",
+      "startLine": 1,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "# 2026-04-15 - Complete ATOM-SG Pilot Implementation ## Overview Completed full end-to-end ATOM-SG Pilot MVP implementation, from backend API specification through bug fixes and UAT test planning. ## Tasks Completed ### C2 Complete - **Task:** Communicate repo location to RenderBot & MVPBot - **Status:** ✅ Complete - **Artifacts:** `artifacts/` structure created with naming conventions ### Priority 2 Enhancement - **Enhancement:** Add model articulations to triad feedback response - **Implementation:** Added `modelArticulation` field to feedback responses - **Purpose:** Students can compare their articulations against ideal examples - **Files Updated:** - `ATOM-SG Pilot/01-Projects/Sta",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4520978038636759,
+      "maxScore": 0.4520978038636759,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-17T06:45:20.210Z",
+      "queryHashes": [
+        "2d4cebb7a40c"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "atom-sg",
+        "end-to-end",
+        "pilot/01-projects/sta",
+        "complete",
+        "atom",
+        "pilot",
+        "implementation",
+        "overview"
+      ]
+    },
+    "memory:memory/2026-04-15.md:267:290": {
+      "key": "memory:memory/2026-04-15.md:267:290",
+      "path": "memory/2026-04-15.md",
+      "startLine": 267,
+      "endLine": 290,
+      "source": "memory",
+      "snippet": "- Cooldown error message: Changed from \"You are in cooldown due to gaming detection\" to \"Taking a short break helps learning! Please wait Xm Ys before trying again.\" - **Frontend Changes (`practice.js`):** - Changed \"Gaming Penalty\" label to \"Speed adjustment\" - Changed \"Cooldown Active\" heading to \"Taking a Break\" - Updated icon from clock (⏰) to heart (💚) - Changed color scheme from warning brown to supportive teal - **Impact:** Gaming detection now feels supportive, not punitive — reduces student disengagement risk - **Files Modified:** - `ATOM-SG Pilot/05-Backend/main.py` (2 changes) - `ATOM-SG Pilot/05-Backend/frontend/static/js/practice.js` (2 changes) - **MVP Status:**",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.43196523010730714,
+      "maxScore": 0.43196523010730714,
+      "firstRecalledAt": "2026-04-17T06:45:20.210Z",
+      "lastRecalledAt": "2026-04-17T06:45:20.210Z",
+      "queryHashes": [
+        "2d4cebb7a40c"
+      ],
+      "recallDays": [
+        "2026-04-17"
+      ],
+      "conceptTags": [
+        "practice.js",
+        "atom-sg",
+        "pilot/05-backend/main.py",
+        "cooldown",
+        "error",
+        "message",
+        "changed",
+        "you"
+      ]
+    },
+    "memory:memory/2026-04-15.md:155:178": {
+      "key": "memory:memory/2026-04-15.md:155:178",
+      "path": "memory/2026-04-15.md",
+      "startLine": 155,
+      "endLine": 178,
+      "source": "memory",
+      "snippet": "- P1 (High Priority): 15 bugs - Timer, feedback truncation, submit issues, white space, feedback complexity, time management, confidence building, font consistency, terminology, mobile responsiveness, error handling, state management, URL routing, page breaks, loading states, modal UX - P2 (Low Priority): 10 bugs - Glossary, tooltips, help text, keyboard shortcuts, auto-save, print optimization, accessibility, color contrast, performance, variety, question randomization - **Test Execution Format:** Week 1-5 journey walkthroughs with thoughts and explicit notes for each persona - **Recommendations Summary:** - P0 (High): 8 fixes with code examples and timelines - P1 (High): 15 fixes w",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.2171087632909472,
+      "maxScore": 0.749194781599686,
+      "firstRecalledAt": "2026-04-18T22:44:53.256Z",
+      "lastRecalledAt": "2026-04-19T02:00:55.701Z",
+      "queryHashes": [
+        "cfdf37c7f0cd",
+        "a6f6de88e930"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "auto-save",
+        "1-5",
+        "high",
+        "priority",
+        "bugs",
+        "timer",
+        "feedback",
+        "truncation"
+      ]
+    },
+    "memory:memory/2026-04-15.md:115:145": {
+      "key": "memory:memory/2026-04-15.md:115:145",
+      "path": "memory/2026-04-15.md",
+      "startLine": 115,
+      "endLine": 145,
+      "source": "memory",
+      "snippet": "- Key features: Problem management, PDF generation, OCR pipeline, practice sessions, pathway radar, milestones, analytics, collision detection, interpretation, triad feedback with model articulations - **Frontend (HTML5 + JavaScript):** - Files: `index.html` (23,457 bytes), `style.css` (17,425 bytes), 10 JavaScript modules (72,923 bytes total) - 6 pages implemented: Dashboard, Baseline Test, Daily Practice, Pathway Radar, Transfer Test, Reflections - Key features: Hash routing, forced articulation UI, diagram annotation canvas, model articulation comparison, responsive design - **Test Results:** All 32 checks passed - **Documentation:** - Backend README (installation, running, API",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6961236127240571,
+      "maxScore": 0.6961236127240571,
+      "firstRecalledAt": "2026-04-18T22:44:53.256Z",
+      "lastRecalledAt": "2026-04-18T22:44:53.256Z",
+      "queryHashes": [
+        "cfdf37c7f0cd"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "index.html",
+        "style.css",
+        "key",
+        "features",
+        "problem",
+        "management",
+        "pdf",
+        "generation"
+      ]
+    },
+    "memory:memory/2026-04-17.md:1:41": {
+      "key": "memory:memory/2026-04-17.md:1:41",
+      "path": "memory/2026-04-17.md",
+      "startLine": 1,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "--- ## **START HERE Button & PDF Layout Fixes (2026-04-17 13:50 GMT+8)** **Issues Reported:** 1. Clicking START HERE redirects to dashboard (no PDF opens) 2. PDF layout not fixed (text outside page) **Root Causes & Fixes:** ### **1. START HERE Button Redirect** **Cause:** Button relied on JavaScript (`window.baseline.printBaseline()`) which fails if baseline module not loaded, and inline fallback `window.open()` may be blocked or fail silently. **Fix:** Changed button to `<a>` tag with direct `href` to PDF endpoint: ```html <a id=\"print-baseline\" class=\"btn btn-primary pulse-animation\" href=\"/api/v1/problems/pdf?week=1\" target=\"_blank\"> <i class=\"fas fa-print\"></i> START HERE →",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6534989132828254,
+      "maxScore": 0.6534989132828254,
+      "firstRecalledAt": "2026-04-18T22:44:53.256Z",
+      "lastRecalledAt": "2026-04-18T22:44:53.256Z",
+      "queryHashes": [
+        "cfdf37c7f0cd"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "window.baseline.printbaseline",
+        "window.open",
+        "print-baseline",
+        "btn-primary",
+        "pulse-animation",
+        "api/v1/problems/pdf",
+        "fa-print",
+        "start"
+      ]
+    },
+    "memory:memory/2026-04-14.md:38:82": {
+      "key": "memory:memory/2026-04-14.md:38:82",
+      "path": "memory/2026-04-14.md",
+      "startLine": 38,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "- Flash: API boilerplate, CRUD operations - 4.7: API spec development, implementation - 5.1: Architecture decisions, security **MVPBot:** - Flash: Milestone tracking, status reports - 4.7: Dependency mapping, timeline adjustments - 5.1: High-level strategy, critical decisions **DashBot:** - Flash: Template reading, status updates - 4.7: Dataview queries, dashboard design - 5.1: Novel visualizations, complex synthesis ### 3. Decision Tree Simple flowchart for model selection: 1. Routine/template work → GLM Flash 2. Complex reasoning/high-stakes → GLM 5.1 3. Otherwise → GLM 4.7 ### 4. Documentation Updates - Updated `ATOM-SG Pilot/README.md` with policy reference - Updated `ATOM-SG Pilot/0",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7335600752734295,
+      "maxScore": 0.7335600752734295,
+      "firstRecalledAt": "2026-04-19T02:00:55.701Z",
+      "lastRecalledAt": "2026-04-19T02:00:55.701Z",
+      "queryHashes": [
+        "a6f6de88e930"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "4.7",
+        "5.1",
+        "high-level",
+        "routine/template",
+        "reasoning/high-stakes",
+        "atom-sg",
+        "pilot/readme.md",
+        "pilot/0"
+      ]
+    },
+    "memory:memory/2026-04-14.md:72:104": {
+      "key": "memory:memory/2026-04-14.md:72:104",
+      "path": "memory/2026-04-14.md",
+      "startLine": 72,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "- Update when new GLM models become available --- *Recorded: 2026-04-14 12:23 GMT+8* ## Backend API Specification Work (Continued) ### 20:00 - Independent API Review - Spawned API-Reviewer sub-agent to audit backend API specification - **Findings:** 75% complete, 4 critical missing endpoints blocking production - **Missing endpoints:** 1. GET /renders (list all renders) 2. POST /practice (individual practice submission) 3. POST /collision (cross-thread collision detection, Week 3+) 4. GET /interpretation (data interpretation results, Week 3+) - **Verdict:** ❌ DO NOT APPROVE — Requires implementation of missing endpoints - **API Status updated to:** \"⚠️ Under Review - Critical Issu",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6773492824788193,
+      "maxScore": 0.6773492824788193,
+      "firstRecalledAt": "2026-04-19T02:00:55.701Z",
+      "lastRecalledAt": "2026-04-19T02:00:55.701Z",
+      "queryHashes": [
+        "a6f6de88e930"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "api-reviewer",
+        "sub-agent",
+        "cross-thread",
+        "update",
+        "when",
+        "new",
+        "glm",
+        "models"
+      ]
+    },
+    "memory:memory/2026-04-14.md:1:48": {
+      "key": "memory:memory/2026-04-14.md:1:48",
+      "path": "memory/2026-04-14.md",
+      "startLine": 1,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "# 2026-04-14 — ATOM-SG Model Usage Policy Created ## Context Sean requested a model usage prioritization framework for all ATOM-SG sub-agents (GeoBot, RenderBot, OcrBot, BackendBot, MVPBot, DashBot). ## Work Completed ### 1. Created Model Usage Policy **File:** `ATOM-SG Pilot/MODEL_USAGE_POLICY.md` **Model Tiers Defined:** - **🟢 GLM Flash (glm-4.7-flashx):** $0.06/M in, $0.40/M out - Use for: Basic/template tasks, simple I/O, low-stakes decisions - **🔵 GLM 4.7:** $0.60/M in, $2.20/M out - Use for: Standard tasks requiring moderate reasoning - **🟣 GLM 5.1:** $1.20/M in, $4.00/M out - Use for: Complex reasoning, strategic thinking, high-stakes decisions ### 2. Sub-Agent Specific",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.4516917484086762,
+      "maxScore": 0.7891438614349403,
+      "firstRecalledAt": "2026-04-19T02:00:55.701Z",
+      "lastRecalledAt": "2026-04-19T07:23:21.763Z",
+      "queryHashes": [
+        "a6f6de88e930",
+        "54ad4451be16"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "atom-sg",
+        "sub-agents",
+        "pilot/model-usage-policy.md",
+        "glm-4.7-flashx",
+        "0.06/m",
+        "0.40/m",
+        "basic/template",
+        "i/o"
+      ]
+    },
+    "memory:memory/2026-04-16.md:35:58": {
+      "key": "memory:memory/2026-04-16.md:35:58",
+      "path": "memory/2026-04-16.md",
+      "startLine": 35,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "2. Final hands-on review by stakeholders 3. Deployment preparation (Docker, installation script) 4. Pilot launch: Week 2 (2026-04-26) **Notes:** - Backend stopped after verification (process killed) - Verification output saved to `ATOM-SG Pilot/05-Backend/verification_output.txt` - No critical failures, MVP is stable and ready for next phase. ## Medium-Priority UX Fixes Implementation **Date:** 2026-04-16 07:30 GMT+8 **Objective:** Implement remaining 11 medium-priority UX fixes from categorized issues. **Issues Addressed:** 1. **Timer missing problem count (2.6)** - Added problem count display (`5/10 problems, ~3 min each`) and progress bar in practice session header. 2. **Progress ind",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.6612728786001182,
+      "maxScore": 0.6612728786001182,
+      "firstRecalledAt": "2026-04-19T02:00:55.701Z",
+      "lastRecalledAt": "2026-04-19T02:00:55.701Z",
+      "queryHashes": [
+        "a6f6de88e930"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "hands-on",
+        "atom-sg",
+        "medium-priority",
+        "2.6",
+        "5/10",
+        "final",
+        "hands",
+        "review"
+      ]
+    },
+    "memory:memory/2026-04-15.md:307:323": {
+      "key": "memory:memory/2026-04-15.md:307:323",
+      "path": "memory/2026-04-15.md",
+      "startLine": 307,
+      "endLine": 323,
+      "source": "memory",
+      "snippet": "- **Status:** 🚧 In Progress (started 2026‑04‑15 23:28) - **Estimated Completion:** 2‑3 hours - **Fixes Being Implemented:** 1. Gaming detection language tone (supportive, not punitive) — may already be fixed 2. Text tool visibility in canvas UI (add 📝 icon) 3. Forced articulation UI clarity (\"Explain how you'd solve\" + examples) 4. Dashboard label simplification (\"ID Accuracy\" → \"Pathway Recognition\") 5. Pathway type name simplification/tooltips 6. \"I'm Stuck\" button addition 7. Side‑by‑side model comparison in triad feedback 8. Clear \"START HERE\" on homepage (glowing Week 1 task) - **Files to Modify:** `index.html`, `practice.html`, `dashboard.html`, `practice.js`, `dashbo",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.5128479198801481,
+      "maxScore": 0.5128479198801481,
+      "firstRecalledAt": "2026-04-19T02:00:55.701Z",
+      "lastRecalledAt": "2026-04-19T02:00:55.701Z",
+      "queryHashes": [
+        "a6f6de88e930"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "simplification/tooltips",
+        "index.html",
+        "practice.html",
+        "dashboard.html",
+        "practice.js",
+        "status",
+        "progress",
+        "started"
+      ]
+    },
+    "memory:memory/2026-04-19.md:97:138": {
+      "key": "memory:memory/2026-04-19.md:97:138",
+      "path": "memory/2026-04-19.md",
+      "startLine": 97,
+      "endLine": 138,
+      "source": "memory",
+      "snippet": "**Context:** Comprehensive analysis of ATOM-SG pilot documentation against actual PSLE exam papers from 5 elite schools (ACS Junior, Nanyang, Henry Park, Nan Hua, Raffles Girls) ### Key Findings 1. **Current baseline test covers only ~40% of exam content** - Word problems too simple (1-2 concepts vs 3-4 fused in exams) - Missing 4 critical geometry pathways - No formal Data Interpretation pathway - Visual quality below exam standard 2. **Documentation Created:** - `00-Templates/ATOM-SG_FRAMEWORK_REVISION_v2.md` (15 pages) - `00-Templates/Visual-Reconstruction-Spec.md` (standard format for diagrams) 3. **Critical Gaps Identified:** - **G5: Composite Overlap** - overla",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8168373779031591,
+      "maxScore": 0.8168373779031591,
+      "firstRecalledAt": "2026-04-19T07:23:21.763Z",
+      "lastRecalledAt": "2026-04-19T07:23:21.763Z",
+      "queryHashes": [
+        "54ad4451be16"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "atom-sg",
+        "1-2",
+        "3-4",
+        "context",
+        "comprehensive",
+        "analysis",
+        "atom",
+        "pilot"
+      ]
+    },
+    "memory:memory/2026-04-19.md:71:104": {
+      "key": "memory:memory/2026-04-19.md:71:104",
+      "path": "memory/2026-04-19.md",
+      "startLine": 71,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "- Increased working space per question (0.7 inch, up from 0.4 inch) - Added separate Diagram Sheets for Geometry (12 diagrams) and Data Interpretation (8 charts) - Added visual placeholders noting \"See separate diagram sheet\" - PDF now 19KB with additional pages for diagrams - Total pages: ~8-10 (3 question pages + 2-3 diagram pages + answer key) **Updates (2026-04-19 07:52):** - Created NEW PDF with **embedded visuals** inline with questions - **14 questions now have diagrams/charts** embedded directly: - Geometry: Angle diagrams, triangle, rectangle, cuboid, circle - Data Interpretation: Bar charts, line graphs, pie charts - Diagrams render using matplotlib and embed as images in PDF",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7698560733875162,
+      "maxScore": 0.7698560733875162,
+      "firstRecalledAt": "2026-04-19T07:23:21.763Z",
+      "lastRecalledAt": "2026-04-19T07:23:21.763Z",
+      "queryHashes": [
+        "54ad4451be16"
+      ],
+      "recallDays": [
+        "2026-04-19"
+      ],
+      "conceptTags": [
+        "0.7",
+        "0.4",
+        "8-10",
+        "2-3",
+        "diagrams/charts",
+        "increased",
+        "working",
+        "space"
+      ]
+    }
+  }
+}

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Primary 1 Maths Syllabus Graph</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body { margin: 0; padding: 20px; font-family: sans-serif; background: #f5f5f5; }
+        .container { display: flex; flex-direction: column; height: 90vh; }
+        .header { margin-bottom: 20px; }
+        .graph-container { flex: 1; border: 1px solid #ccc; background: white; border-radius: 8px; }
+        #graph { width: 100%; height: 100%; }
+        .node.skill { fill: #4ecdc4; stroke: #333; stroke-width: 2px; }
+        .node.paper { fill: #ff6b6b; stroke: #333; stroke-width: 1px; stroke-dasharray: 3,3; }
+        .link.tests { stroke: #ff6b6b; stroke-width: 1.5; }
+        .link.prerequisite { stroke: #4ecdc4; stroke-width: 1.5; }
+        .tooltip { 
+            position: absolute; 
+            padding: 8px; 
+            background: rgba(0,0,0,0.8); 
+            color: white; 
+            border-radius: 4px; 
+            font-size: 12px;
+            pointer-events: none;
+            display: none;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Primary 1 Maths Syllabus Knowledge Graph</h1>
+            <p><strong>83 syllabus skills</strong> (circles) × <strong>10 exam papers</strong> (diamonds). 
+            <br>Red edges: paper tests skill. Blue edges: skill prerequisite.
+            <br>Drag nodes, scroll to zoom, hover for details.</p>
+        </div>
+        <div class="graph-container">
+            <svg id="graph"></svg>
+        </div>
+    </div>
+    <div class="tooltip" id="tooltip"></div>
+    
+    <script>
+        // Embedded graph data
+        const graphData = {{GRAPH_DATA}};
+        
+        console.log('Graph data loaded:', graphData.nodes.length, 'nodes,', graphData.edges.length, 'edges');
+        
+        const width = document.querySelector('.graph-container').clientWidth;
+        const height = document.querySelector('.graph-container').clientHeight;
+        
+        const svg = d3.select('#graph')
+            .attr('width', width)
+            .attr('height', height);
+        
+        // Add zoom
+        const zoom = d3.zoom()
+            .scaleExtent([0.1, 4])
+            .on('zoom', (event) => {
+                g.attr('transform', event.transform);
+            });
+        
+        svg.call(zoom);
+        
+        const g = svg.append('g');
+        
+        // Create simulation
+        const simulation = d3.forceSimulation(graphData.nodes)
+            .force('link', d3.forceLink(graphData.edges).id(d => d.id).distance(80))
+            .force('charge', d3.forceManyBody().strength(-300))
+            .force('center', d3.forceCenter(width / 2, height / 2))
+            .force('collision', d3.forceCollide().radius(20));
+        
+        // Create links
+        const link = g.append('g')
+            .selectAll('line')
+            .data(graphData.edges)
+            .enter().append('line')
+            .attr('class', d => `link ${d.type}`)
+            .attr('stroke-width', 1.5);
+        
+        // Create nodes
+        const node = g.append('g')
+            .selectAll('g')
+            .data(graphData.nodes)
+            .enter().append('g')
+            .call(d3.drag()
+                .on('start', dragstarted)
+                .on('drag', dragged)
+                .on('end', dragended));
+        
+        // Add shapes
+        node.each(function(d) {
+            const el = d3.select(this);
+            if (d.type === 'skill') {
+                el.append('circle')
+                    .attr('r', 8)
+                    .attr('class', 'node skill');
+            } else if (d.type === 'paper') {
+                el.append('rect')
+                    .attr('width', 14)
+                    .attr('height', 14)
+                    .attr('x', -7)
+                    .attr('y', -7)
+                    .attr('class', 'node paper');
+            }
+        });
+        
+        // Add labels
+        const label = node.append('text')
+            .text(d => {
+                if (d.type === 'paper') return d.label.split(' ').slice(-1)[0]; // Just school name
+                return d.label.length > 20 ? d.label.substring(0, 20) + '...' : d.label;
+            })
+            .attr('text-anchor', 'middle')
+            .attr('dy', d => d.type === 'paper' ? 20 : 15)
+            .attr('font-size', '9px')
+            .attr('fill', '#333');
+        
+        // Tooltip
+        const tooltip = d3.select('#tooltip');
+        
+        node.on('mouseover', function(event, d) {
+            tooltip.style('display', 'block')
+                .html(`<strong>${d.label}</strong><br/>
+                       Type: ${d.type}<br/>
+                       ${d.category ? 'Category: ' + d.category : ''}<br/>
+                       ${d.subcategory ? 'Subcategory: ' + d.subcategory : ''}<br/>
+                       ID: ${d.id}`);
+        })
+        .on('mousemove', function(event) {
+            tooltip.style('left', (event.pageX + 10) + 'px')
+                .style('top', (event.pageY - 10) + 'px');
+        })
+        .on('mouseout', function() {
+            tooltip.style('display', 'none');
+        });
+        
+        // Update positions
+        simulation.on('tick', () => {
+            link.attr('x1', d => d.source.x)
+                .attr('y1', d => d.source.y)
+                .attr('x2', d => d.target.x)
+                .attr('y2', d => d.target.y);
+            
+            node.attr('transform', d => `translate(${d.x},${d.y})`);
+        });
+        
+        // Drag functions
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+        
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+        
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+        
+        // Reset zoom button
+        const resetBtn = document.createElement('button');
+        resetBtn.textContent = 'Reset View';
+        resetBtn.style.position = 'absolute';
+        resetBtn.style.top = '100px';
+        resetBtn.style.right = '20px';
+        resetBtn.onclick = () => {
+            svg.transition().duration(750).call(zoom.transform, d3.zoomIdentity);
+        };
+        document.body.appendChild(resetBtn);
+        
+        console.log('Graph initialized');
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "S001",
+    "skill": "Counting objects to 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10"
+  },
+  {
+    "id": "S002",
+    "skill": "Reading and writing numerals 0-10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10"
+  },
+  {
+    "id": "S003",
+    "skill": "Reading and writing number words zero to ten",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10"
+  },
+  {
+    "id": "S004",
+    "skill": "Comparing numbers within 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10"
+  },
+  {
+    "id": "S005",
+    "skill": "Ordering numbers within 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10"
+  },
+  {
+    "id": "S006",
+    "skill": "Number bonds for numbers up to 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10"
+  },
+  {
+    "id": "S007",
+    "skill": "Ordinal numbers (first to tenth)",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10"
+  },
+  {
+    "id": "S008",
+    "skill": "Counting objects to 20",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20"
+  },
+  {
+    "id": "S009",
+    "skill": "Reading and writing numerals 11-20",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20"
+  },
+  {
+    "id": "S010",
+    "skill": "Reading and writing number words eleven to twenty",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20"
+  }
+]

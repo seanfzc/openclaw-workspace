@@ -1,0 +1,583 @@
+[
+  {
+    "id": "S001",
+    "skill": "Counting objects to 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10",
+    "full_path": "Whole Numbers > Numbers to 10 > Counting objects to 10"
+  },
+  {
+    "id": "S002",
+    "skill": "Reading and writing numerals 0-10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10",
+    "full_path": "Whole Numbers > Numbers to 10 > Reading and writing numerals 0-10"
+  },
+  {
+    "id": "S003",
+    "skill": "Reading and writing number words zero to ten",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10",
+    "full_path": "Whole Numbers > Numbers to 10 > Reading and writing number words zero to ten"
+  },
+  {
+    "id": "S004",
+    "skill": "Comparing numbers within 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10",
+    "full_path": "Whole Numbers > Numbers to 10 > Comparing numbers within 10"
+  },
+  {
+    "id": "S005",
+    "skill": "Ordering numbers within 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10",
+    "full_path": "Whole Numbers > Numbers to 10 > Ordering numbers within 10"
+  },
+  {
+    "id": "S006",
+    "skill": "Number bonds for numbers up to 10",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10",
+    "full_path": "Whole Numbers > Numbers to 10 > Number bonds for numbers up to 10"
+  },
+  {
+    "id": "S007",
+    "skill": "Ordinal numbers (first to tenth)",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 10",
+    "full_path": "Whole Numbers > Numbers to 10 > Ordinal numbers (first to tenth)"
+  },
+  {
+    "id": "S008",
+    "skill": "Counting objects to 20",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20",
+    "full_path": "Whole Numbers > Numbers to 20 > Counting objects to 20"
+  },
+  {
+    "id": "S009",
+    "skill": "Reading and writing numerals 11-20",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20",
+    "full_path": "Whole Numbers > Numbers to 20 > Reading and writing numerals 11-20"
+  },
+  {
+    "id": "S010",
+    "skill": "Reading and writing number words eleven to twenty",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20",
+    "full_path": "Whole Numbers > Numbers to 20 > Reading and writing number words eleven to twenty"
+  },
+  {
+    "id": "S011",
+    "skill": "Comparing numbers within 20",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20",
+    "full_path": "Whole Numbers > Numbers to 20 > Comparing numbers within 20"
+  },
+  {
+    "id": "S012",
+    "skill": "Ordering numbers within 20",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20",
+    "full_path": "Whole Numbers > Numbers to 20 > Ordering numbers within 20"
+  },
+  {
+    "id": "S013",
+    "skill": "Place value (tens and ones) for numbers 11-20",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 20",
+    "full_path": "Whole Numbers > Numbers to 20 > Place value (tens and ones) for numbers 11-20"
+  },
+  {
+    "id": "S014",
+    "skill": "Counting objects to 100",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 100",
+    "full_path": "Whole Numbers > Numbers to 100 > Counting objects to 100"
+  },
+  {
+    "id": "S015",
+    "skill": "Reading and writing numerals up to 100",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 100",
+    "full_path": "Whole Numbers > Numbers to 100 > Reading and writing numerals up to 100"
+  },
+  {
+    "id": "S016",
+    "skill": "Place value (tens and ones) for numbers up to 100",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 100",
+    "full_path": "Whole Numbers > Numbers to 100 > Place value (tens and ones) for numbers up to 100"
+  },
+  {
+    "id": "S017",
+    "skill": "Comparing numbers up to 100",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 100",
+    "full_path": "Whole Numbers > Numbers to 100 > Comparing numbers up to 100"
+  },
+  {
+    "id": "S018",
+    "skill": "Ordering numbers up to 100",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 100",
+    "full_path": "Whole Numbers > Numbers to 100 > Ordering numbers up to 100"
+  },
+  {
+    "id": "S019",
+    "skill": "Number patterns (skip counting by 2s, 5s, 10s)",
+    "category": "Whole Numbers",
+    "subcategory": "Numbers to 100",
+    "full_path": "Whole Numbers > Numbers to 100 > Number patterns (skip counting by 2s, 5s, 10s)"
+  },
+  {
+    "id": "S020",
+    "skill": "Adding with pictures",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 10",
+    "full_path": "Addition and Subtraction > Addition within 10 > Adding with pictures"
+  },
+  {
+    "id": "S021",
+    "skill": "Adding using number bonds",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 10",
+    "full_path": "Addition and Subtraction > Addition within 10 > Adding using number bonds"
+  },
+  {
+    "id": "S022",
+    "skill": "Addition facts (sums up to 10)",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 10",
+    "full_path": "Addition and Subtraction > Addition within 10 > Addition facts (sums up to 10)"
+  },
+  {
+    "id": "S023",
+    "skill": "Adding 0, 1, 2 to a number",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 10",
+    "full_path": "Addition and Subtraction > Addition within 10 > Adding 0, 1, 2 to a number"
+  },
+  {
+    "id": "S024",
+    "skill": "Adding three 1-digit numbers",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 10",
+    "full_path": "Addition and Subtraction > Addition within 10 > Adding three 1-digit numbers"
+  },
+  {
+    "id": "S025",
+    "skill": "Addition word problems within 10",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 10",
+    "full_path": "Addition and Subtraction > Addition within 10 > Addition word problems within 10"
+  },
+  {
+    "id": "S026",
+    "skill": "Subtracting with pictures",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 10",
+    "full_path": "Addition and Subtraction > Subtraction within 10 > Subtracting with pictures"
+  },
+  {
+    "id": "S027",
+    "skill": "Subtracting using number bonds",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 10",
+    "full_path": "Addition and Subtraction > Subtraction within 10 > Subtracting using number bonds"
+  },
+  {
+    "id": "S028",
+    "skill": "Subtraction facts (within 10)",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 10",
+    "full_path": "Addition and Subtraction > Subtraction within 10 > Subtraction facts (within 10)"
+  },
+  {
+    "id": "S029",
+    "skill": "Subtracting 0, 1, 2 from a number",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 10",
+    "full_path": "Addition and Subtraction > Subtraction within 10 > Subtracting 0, 1, 2 from a number"
+  },
+  {
+    "id": "S030",
+    "skill": "Subtraction word problems within 10",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 10",
+    "full_path": "Addition and Subtraction > Subtraction within 10 > Subtraction word problems within 10"
+  },
+  {
+    "id": "S031",
+    "skill": "Addition without regrouping",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 20",
+    "full_path": "Addition and Subtraction > Addition within 20 > Addition without regrouping"
+  },
+  {
+    "id": "S032",
+    "skill": "Addition facts (sums up to 20)",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 20",
+    "full_path": "Addition and Subtraction > Addition within 20 > Addition facts (sums up to 20)"
+  },
+  {
+    "id": "S033",
+    "skill": "Adding three 1-digit numbers (sums up to 20)",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 20",
+    "full_path": "Addition and Subtraction > Addition within 20 > Adding three 1-digit numbers (sums up to 20)"
+  },
+  {
+    "id": "S034",
+    "skill": "Addition word problems within 20",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition within 20",
+    "full_path": "Addition and Subtraction > Addition within 20 > Addition word problems within 20"
+  },
+  {
+    "id": "S035",
+    "skill": "Subtraction without regrouping",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 20",
+    "full_path": "Addition and Subtraction > Subtraction within 20 > Subtraction without regrouping"
+  },
+  {
+    "id": "S036",
+    "skill": "Subtraction facts (within 20)",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 20",
+    "full_path": "Addition and Subtraction > Subtraction within 20 > Subtraction facts (within 20)"
+  },
+  {
+    "id": "S037",
+    "skill": "Subtraction word problems within 20",
+    "category": "Addition and Subtraction",
+    "subcategory": "Subtraction within 20",
+    "full_path": "Addition and Subtraction > Subtraction within 20 > Subtraction word problems within 20"
+  },
+  {
+    "id": "S038",
+    "skill": "Adding tens",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition and Subtraction within 100",
+    "full_path": "Addition and Subtraction > Addition and Subtraction within 100 > Adding tens"
+  },
+  {
+    "id": "S039",
+    "skill": "Subtracting tens",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition and Subtraction within 100",
+    "full_path": "Addition and Subtraction > Addition and Subtraction within 100 > Subtracting tens"
+  },
+  {
+    "id": "S040",
+    "skill": "Adding 2-digit and 1-digit numbers without regrouping",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition and Subtraction within 100",
+    "full_path": "Addition and Subtraction > Addition and Subtraction within 100 > Adding 2-digit and 1-digit numbers without regrouping"
+  },
+  {
+    "id": "S041",
+    "skill": "Subtracting 1-digit from 2-digit numbers without regrouping",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition and Subtraction within 100",
+    "full_path": "Addition and Subtraction > Addition and Subtraction within 100 > Subtracting 1-digit from 2-digit numbers without regrouping"
+  },
+  {
+    "id": "S042",
+    "skill": "Adding two 2-digit numbers without regrouping",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition and Subtraction within 100",
+    "full_path": "Addition and Subtraction > Addition and Subtraction within 100 > Adding two 2-digit numbers without regrouping"
+  },
+  {
+    "id": "S043",
+    "skill": "Subtracting two 2-digit numbers without regrouping",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition and Subtraction within 100",
+    "full_path": "Addition and Subtraction > Addition and Subtraction within 100 > Subtracting two 2-digit numbers without regrouping"
+  },
+  {
+    "id": "S044",
+    "skill": "Word problems within 100",
+    "category": "Addition and Subtraction",
+    "subcategory": "Addition and Subtraction within 100",
+    "full_path": "Addition and Subtraction > Addition and Subtraction within 100 > Word problems within 100"
+  },
+  {
+    "id": "S045",
+    "skill": "Multiplication as repeated addition",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Multiplication",
+    "full_path": "Multiplication and Division > Basic Multiplication > Multiplication as repeated addition"
+  },
+  {
+    "id": "S046",
+    "skill": "Multiplying by 2",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Multiplication",
+    "full_path": "Multiplication and Division > Basic Multiplication > Multiplying by 2"
+  },
+  {
+    "id": "S047",
+    "skill": "Multiplying by 5",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Multiplication",
+    "full_path": "Multiplication and Division > Basic Multiplication > Multiplying by 5"
+  },
+  {
+    "id": "S048",
+    "skill": "Multiplying by 10",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Multiplication",
+    "full_path": "Multiplication and Division > Basic Multiplication > Multiplying by 10"
+  },
+  {
+    "id": "S049",
+    "skill": "Division as sharing equally",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Division",
+    "full_path": "Multiplication and Division > Basic Division > Division as sharing equally"
+  },
+  {
+    "id": "S050",
+    "skill": "Division as grouping",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Division",
+    "full_path": "Multiplication and Division > Basic Division > Division as grouping"
+  },
+  {
+    "id": "S051",
+    "skill": "Dividing by 2",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Division",
+    "full_path": "Multiplication and Division > Basic Division > Dividing by 2"
+  },
+  {
+    "id": "S052",
+    "skill": "Dividing by 5",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Division",
+    "full_path": "Multiplication and Division > Basic Division > Dividing by 5"
+  },
+  {
+    "id": "S053",
+    "skill": "Dividing by 10",
+    "category": "Multiplication and Division",
+    "subcategory": "Basic Division",
+    "full_path": "Multiplication and Division > Basic Division > Dividing by 10"
+  },
+  {
+    "id": "S054",
+    "skill": "Comparing lengths (longer/shorter)",
+    "category": "Measurement",
+    "subcategory": "Length",
+    "full_path": "Measurement > Length > Comparing lengths (longer/shorter)"
+  },
+  {
+    "id": "S055",
+    "skill": "Measuring length using non-standard units (e.g., paper clips)",
+    "category": "Measurement",
+    "subcategory": "Length",
+    "full_path": "Measurement > Length > Measuring length using non-standard units (e.g., paper clips)"
+  },
+  {
+    "id": "S056",
+    "skill": "Measuring length using standard units (cm)",
+    "category": "Measurement",
+    "subcategory": "Length",
+    "full_path": "Measurement > Length > Measuring length using standard units (cm)"
+  },
+  {
+    "id": "S057",
+    "skill": "Word problems involving length",
+    "category": "Measurement",
+    "subcategory": "Length",
+    "full_path": "Measurement > Length > Word problems involving length"
+  },
+  {
+    "id": "S058",
+    "skill": "Telling time to the hour",
+    "category": "Measurement",
+    "subcategory": "Time",
+    "full_path": "Measurement > Time > Telling time to the hour"
+  },
+  {
+    "id": "S059",
+    "skill": "Telling time to the half hour",
+    "category": "Measurement",
+    "subcategory": "Time",
+    "full_path": "Measurement > Time > Telling time to the half hour"
+  },
+  {
+    "id": "S060",
+    "skill": "Reading clock faces (analogue)",
+    "category": "Measurement",
+    "subcategory": "Time",
+    "full_path": "Measurement > Time > Reading clock faces (analogue)"
+  },
+  {
+    "id": "S061",
+    "skill": "Reading digital clocks",
+    "category": "Measurement",
+    "subcategory": "Time",
+    "full_path": "Measurement > Time > Reading digital clocks"
+  },
+  {
+    "id": "S062",
+    "skill": "Days of the week",
+    "category": "Measurement",
+    "subcategory": "Time",
+    "full_path": "Measurement > Time > Days of the week"
+  },
+  {
+    "id": "S063",
+    "skill": "Months of the year",
+    "category": "Measurement",
+    "subcategory": "Time",
+    "full_path": "Measurement > Time > Months of the year"
+  },
+  {
+    "id": "S064",
+    "skill": "Sequence of events (before, after, next)",
+    "category": "Measurement",
+    "subcategory": "Time",
+    "full_path": "Measurement > Time > Sequence of events (before, after, next)"
+  },
+  {
+    "id": "S065",
+    "skill": "Recognising coins and notes (Singapore currency)",
+    "category": "Measurement",
+    "subcategory": "Money",
+    "full_path": "Measurement > Money > Recognising coins and notes (Singapore currency)"
+  },
+  {
+    "id": "S066",
+    "skill": "Counting money in cents up to $1",
+    "category": "Measurement",
+    "subcategory": "Money",
+    "full_path": "Measurement > Money > Counting money in cents up to $1"
+  },
+  {
+    "id": "S067",
+    "skill": "Counting money in dollars up to $10",
+    "category": "Measurement",
+    "subcategory": "Money",
+    "full_path": "Measurement > Money > Counting money in dollars up to $10"
+  },
+  {
+    "id": "S068",
+    "skill": "Comparing amounts of money",
+    "category": "Measurement",
+    "subcategory": "Money",
+    "full_path": "Measurement > Money > Comparing amounts of money"
+  },
+  {
+    "id": "S069",
+    "skill": "Simple addition and subtraction with money",
+    "category": "Measurement",
+    "subcategory": "Money",
+    "full_path": "Measurement > Money > Simple addition and subtraction with money"
+  },
+  {
+    "id": "S070",
+    "skill": "Word problems involving money",
+    "category": "Measurement",
+    "subcategory": "Money",
+    "full_path": "Measurement > Money > Word problems involving money"
+  },
+  {
+    "id": "S071",
+    "skill": "Identifying 2D shapes (square, rectangle, circle, triangle)",
+    "category": "Geometry",
+    "subcategory": "Shapes",
+    "full_path": "Geometry > Shapes > Identifying 2D shapes (square, rectangle, circle, triangle)"
+  },
+  {
+    "id": "S072",
+    "skill": "Describing 2D shapes (sides, corners)",
+    "category": "Geometry",
+    "subcategory": "Shapes",
+    "full_path": "Geometry > Shapes > Describing 2D shapes (sides, corners)"
+  },
+  {
+    "id": "S073",
+    "skill": "Identifying 3D shapes (cube, cuboid, sphere, cone)",
+    "category": "Geometry",
+    "subcategory": "Shapes",
+    "full_path": "Geometry > Shapes > Identifying 3D shapes (cube, cuboid, sphere, cone)"
+  },
+  {
+    "id": "S074",
+    "skill": "Describing 3D shapes (faces, edges, vertices)",
+    "category": "Geometry",
+    "subcategory": "Shapes",
+    "full_path": "Geometry > Shapes > Describing 3D shapes (faces, edges, vertices)"
+  },
+  {
+    "id": "S075",
+    "skill": "Composing shapes (making pictures with shapes)",
+    "category": "Geometry",
+    "subcategory": "Shapes",
+    "full_path": "Geometry > Shapes > Composing shapes (making pictures with shapes)"
+  },
+  {
+    "id": "S076",
+    "skill": "Patterns with shapes",
+    "category": "Geometry",
+    "subcategory": "Shapes",
+    "full_path": "Geometry > Shapes > Patterns with shapes"
+  },
+  {
+    "id": "S077",
+    "skill": "Reading picture graphs",
+    "category": "Data Analysis",
+    "subcategory": "Picture Graphs",
+    "full_path": "Data Analysis > Picture Graphs > Reading picture graphs"
+  },
+  {
+    "id": "S078",
+    "skill": "Making picture graphs",
+    "category": "Data Analysis",
+    "subcategory": "Picture Graphs",
+    "full_path": "Data Analysis > Picture Graphs > Making picture graphs"
+  },
+  {
+    "id": "S079",
+    "skill": "Interpreting picture graphs (most, least, how many more)",
+    "category": "Data Analysis",
+    "subcategory": "Picture Graphs",
+    "full_path": "Data Analysis > Picture Graphs > Interpreting picture graphs (most, least, how many more)"
+  },
+  {
+    "id": "S080",
+    "skill": "Simple questions about picture graphs",
+    "category": "Data Analysis",
+    "subcategory": "Picture Graphs",
+    "full_path": "Data Analysis > Picture Graphs > Simple questions about picture graphs"
+  },
+  {
+    "id": "S081",
+    "skill": "Reading tally marks",
+    "category": "Data Analysis",
+    "subcategory": "Tally Charts",
+    "full_path": "Data Analysis > Tally Charts > Reading tally marks"
+  },
+  {
+    "id": "S082",
+    "skill": "Making tally charts",
+    "category": "Data Analysis",
+    "subcategory": "Tally Charts",
+    "full_path": "Data Analysis > Tally Charts > Making tally charts"
+  },
+  {
+    "id": "S083",
+    "skill": "Interpreting tally charts",
+    "category": "Data Analysis",
+    "subcategory": "Tally Charts",
+    "full_path": "Data Analysis > Tally Charts > Interpreting tally charts"
+  }
+]

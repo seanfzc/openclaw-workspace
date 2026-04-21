@@ -1,0 +1,44 @@
+{Helvetica;}
+
+import sys
+import os
+import argparse
+
+# --- Library Availability Checks ---
+PYMUPDF4LLM_AVAILABLE = False
+try:
+    import pymupdf4llm
+    PYMUPDF4LLM_AVAILABLE = True
+except ImportError:
+    print("Warning: pymupdf4llm not found. Pass 2 will use simulated content.", file=sys.stderr)
+
+# We assume docling is available if hybrid mode is expected, but don't strictly need to import it for this simulation.
+# If we were to run Docling, we'd check:
+# try:
+#     import docling
+#     DOCLING_AVAILABLE = True
+# except ImportError:
+#     DOCLING_AVAILABLE = False
+#     print("Warning: docling not found. Complex table routing might be affected.", file=sys.stderr)
+
+def initialize_neo_simulated(pdf_path: str, output_dir: str):
+    """
+    Simulates the DUAL-PASS "NEO" PIPELINE execution locally.
+    Pass 1: Conceptual structural scan (OpenDataLoader equivalent).
+    Pass 2: Simulated Markdown conversion (PyMuPDF4LLM).
+    Pass 3: Conceptual description of DeepSeek-V3.2 LaTeX cleanup.
+
+    This function prints simulated outputs to the console for copy-pasting.
+    """
+    print(f"--- Starting NEO Pipeline Simulation ---")
+    print(f"Target PDF: {pdf_path}")
+    print(f"Output Directory: {output_dir}")
+    print("Note: Actual file processing cannot occur in this environment. Outputs are simulated.")
+
+    # --- Pass 1: OpenDataLoader - Hybrid (Conceptual Description) ---
+    print("--- Pass 1: OpenDataLoader (Hybrid Scan) ---")
+    print("Conceptual Action: Perform structural scan + local formula extraction.")
+    print("Routing: Route complex tables to the Docling-fast backend while processing simple text locally.")
+    print("Simulated Output: Metadata would be generated here (e.g., page counts, section types).")
+    structural_metadata_simulated = {
+        "file_name": os.path.basename(pdf_path),

@@ -1,0 +1,3680 @@
+{
+  "nodes": [
+    {
+      "id": "topic_1",
+      "label": "graphifyuncached",
+      "type": "concept",
+      "source_file": ".graphify_uncached.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "label": "2023 P1 Maths Topical Quiz 2 Henry Park",
+      "type": "file",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_2",
+      "label": "Math",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_3",
+      "label": "Park",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_4",
+      "label": "Henry",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_5",
+      "label": "School",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_6",
+      "label": "Henry Park Primary School",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_7",
+      "label": "Term",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_8",
+      "label": "Topical",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_9",
+      "label": "Level",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_10",
+      "label": "Quiz",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_11",
+      "label": "Primary",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_12",
+      "label": "Subject",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2021 P1 Maths Revisions Mgs",
+      "label": "2021 P1 Maths Revisions Mgs",
+      "type": "file",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_13",
+      "label": "Vear",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_14",
+      "label": "Mathematics",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_15",
+      "label": "Revisions",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_16",
+      "label": "Methodist Girls School Primary",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_17",
+      "label": "Mgs",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_18",
+      "label": "Answer Kev",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_19",
+      "label": "Shapes",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2021 P1 Maths Quiz1 Henry Park",
+      "label": "2021 P1 Maths Quiz1 Henry Park",
+      "type": "file",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_20",
+      "label": "Addition And Subtraction Within",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_21",
+      "label": "Within",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_22",
+      "label": "Numbers To",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_23",
+      "label": "Numbers To  Addition And Subtraction",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_24",
+      "label": "Year",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_25",
+      "label": "Quiz1",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_26",
+      "label": "Addition And Subtraction",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_27",
+      "label": "Answer Key",
+      "type": "concept",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2023 P1 Maths Term 2 Mini Test Ai Tong",
+      "label": "2023 P1 Maths Term 2 Mini Test Ai Tong",
+      "type": "file",
+      "source_file": "2023 P1 Maths Term 2 Mini Test Ai Tong.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_28",
+      "label": "Tong",
+      "type": "concept",
+      "source_file": "2023 P1 Maths Term 2 Mini Test Ai Tong.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "label": "2025 P1 Maths Quiz 3 Henry Park",
+      "type": "file",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_29",
+      "label": "Primary  Topical Quiz",
+      "type": "concept",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_30",
+      "label": "Henrypark School",
+      "type": "concept",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_31",
+      "label": "Q  I",
+      "type": "concept",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2022 P1 Maths Review Assessment 2 Raffles Girls",
+      "label": "2022 P1 Maths Review Assessment 2 Raffles Girls",
+      "type": "file",
+      "source_file": "2022 P1 Maths Review Assessment 2 Raffles Girls.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_32",
+      "label": "Raffles",
+      "type": "concept",
+      "source_file": "2022 P1 Maths Review Assessment 2 Raffles Girls.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_33",
+      "label": "Girls",
+      "type": "concept",
+      "source_file": "2022 P1 Maths Review Assessment 2 Raffles Girls.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "label": "2025 P1 Maths Quiz 2 Henry Park",
+      "type": "file",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_34",
+      "label": "Henry Park School",
+      "type": "concept",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "label": "2024 P1 Maths Quiz 1 Henry Park",
+      "type": "file",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_35",
+      "label": "Topical Quiz",
+      "type": "concept",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2022 P1 Maths Test 6 Scgs",
+      "label": "2022 P1 Maths Test 6 Scgs",
+      "type": "file",
+      "source_file": "2022 P1 Maths Test 6 Scgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_36",
+      "label": "Scgs",
+      "type": "concept",
+      "source_file": "2022 P1 Maths Test 6 Scgs.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "file_2024 P1 Maths Review 1 Maha Bodhi",
+      "label": "2024 P1 Maths Review 1 Maha Bodhi",
+      "type": "file",
+      "source_file": "2024 P1 Maths Review 1 Maha Bodhi.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "paper"
+    },
+    {
+      "id": "topic_37",
+      "label": "Bodhi",
+      "type": "concept",
+      "source_file": "2024 P1 Maths Review 1 Maha Bodhi.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    },
+    {
+      "id": "topic_38",
+      "label": "Maha",
+      "type": "concept",
+      "source_file": "2024 P1 Maths Review 1 Maha Bodhi.pdf",
+      "source_location": "L1",
+      "confidence": "EXTRACTED",
+      "file_type": "document"
+    }
+  ],
+  "edges": [
+    {
+      "source": "file_.graphify_uncached",
+      "target": "topic_1",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".graphify_uncached.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_4",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_5",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_6",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_8",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_9",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_10",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_11",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "target": "topic_12",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_12",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_13",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_5",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_14",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_15",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_16",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_17",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_18",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_9",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Revisions Mgs",
+      "target": "topic_19",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_20",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_21",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_22",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_4",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_14",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_23",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_6",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_24",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_25",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_5",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_12",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_26",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_9",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_11",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2021 P1 Maths Quiz1 Henry Park",
+      "target": "topic_27",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2023 P1 Maths Term 2 Mini Test Ai Tong",
+      "target": "topic_28",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Term 2 Mini Test Ai Tong.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_20",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_29",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_30",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_22",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_4",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_14",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_31",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_12",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_6",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_26",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_5",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_9",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_11",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 3 Henry Park",
+      "target": "topic_21",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2022 P1 Maths Review Assessment 2 Raffles Girls",
+      "target": "topic_32",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2022 P1 Maths Review Assessment 2 Raffles Girls.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2022 P1 Maths Review Assessment 2 Raffles Girls",
+      "target": "topic_33",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2022 P1 Maths Review Assessment 2 Raffles Girls.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_20",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_29",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_22",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_4",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_14",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_2",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_12",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_34",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_6",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_26",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_5",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_9",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_11",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2025 P1 Maths Quiz 2 Henry Park",
+      "target": "topic_21",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_10",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_12",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_11",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_3",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_4",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_35",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_14",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_5",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_6",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_26",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_7",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_22",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_9",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Quiz 1 Henry Park",
+      "target": "topic_21",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2022 P1 Maths Test 6 Scgs",
+      "target": "topic_36",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2022 P1 Maths Test 6 Scgs.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Review 1 Maha Bodhi",
+      "target": "topic_37",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Review 1 Maha Bodhi.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "file_2024 P1 Maths Review 1 Maha Bodhi",
+      "target": "topic_38",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Review 1 Maha Bodhi.pdf",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_20",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_21",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_22",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_2",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_3",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_4",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_4",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_4",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_4",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_4",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_5",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_5",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_5",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_5",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_6",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_6",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_6",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_7",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_7",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_8",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_2",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_11",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_12",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_14",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_21",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_22",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_10",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_2",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_12",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_14",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_20",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_21",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_22",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_23",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_24",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_11",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_2",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_8",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_13",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_14",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_15",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_16",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_17",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_18",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_19",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_20",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_21",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_22",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_23",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_24",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_12",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_14",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_15",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_16",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_17",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_18",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_13",
+      "target": "topic_19",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_2",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_15",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_16",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_17",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_18",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_19",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_20",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_21",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_22",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_23",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_24",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_14",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_15",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_15",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_15",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_15",
+      "target": "topic_16",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_15",
+      "target": "topic_17",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_15",
+      "target": "topic_18",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_15",
+      "target": "topic_19",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_16",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_16",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_16",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_16",
+      "target": "topic_17",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_16",
+      "target": "topic_18",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_16",
+      "target": "topic_19",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_17",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_17",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_17",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_17",
+      "target": "topic_18",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_17",
+      "target": "topic_19",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_18",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_18",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_18",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_18",
+      "target": "topic_19",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_19",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_19",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_19",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_21",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_22",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_23",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_24",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_20",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_22",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_23",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_24",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_21",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_23",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_24",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_22",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_24",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_23",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_25",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_24",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_26",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_25",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_27",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_29",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_26",
+      "target": "topic_35",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_27",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_27",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_27",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_27",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_27",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_27",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_3",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_30",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_29",
+      "target": "topic_34",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_30",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_30",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_30",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_30",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_30",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_30",
+      "target": "topic_31",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_31",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_31",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_31",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_31",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_31",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_32",
+      "target": "topic_33",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_34",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_34",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_34",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_34",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_34",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_35",
+      "target": "topic_4",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_35",
+      "target": "topic_5",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_35",
+      "target": "topic_6",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_35",
+      "target": "topic_7",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_35",
+      "target": "topic_9",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    },
+    {
+      "source": "topic_37",
+      "target": "topic_38",
+      "relation": "co_occurs_with",
+      "confidence": "EXTRACTED",
+      "source_file": "multiple",
+      "source_location": "L1"
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hyper_.graphify_uncached",
+      "label": "Topics in .graphify_uncached",
+      "nodes": [],
+      "confidence": "EXTRACTED",
+      "source_file": ".graphify_uncached.pdf"
+    },
+    {
+      "id": "hyper_2023 P1 Maths Topical Quiz 2 Henry Park",
+      "label": "Topics in 2023 P1 Maths Topical Quiz 2 Henry Park",
+      "nodes": [
+        "topic_2",
+        "topic_3",
+        "topic_4",
+        "topic_6",
+        "topic_7",
+        "topic_8",
+        "topic_9"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Topical Quiz 2 Henry Park.pdf"
+    },
+    {
+      "id": "hyper_2021 P1 Maths Revisions Mgs",
+      "label": "Topics in 2021 P1 Maths Revisions Mgs",
+      "nodes": [
+        "topic_12",
+        "topic_13",
+        "topic_5",
+        "topic_14",
+        "topic_7",
+        "topic_15",
+        "topic_16",
+        "topic_17",
+        "topic_18",
+        "topic_9",
+        "topic_19"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Revisions Mgs.pdf"
+    },
+    {
+      "id": "hyper_2021 P1 Maths Quiz1 Henry Park",
+      "label": "Topics in 2021 P1 Maths Quiz1 Henry Park",
+      "nodes": [
+        "topic_21",
+        "topic_22",
+        "topic_4",
+        "topic_14",
+        "topic_24",
+        "topic_25",
+        "topic_3",
+        "topic_5",
+        "topic_7",
+        "topic_6",
+        "topic_26",
+        "topic_9",
+        "topic_27"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2021 P1 Maths Quiz1 Henry Park.pdf"
+    },
+    {
+      "id": "hyper_2023 P1 Maths Term 2 Mini Test Ai Tong",
+      "label": "Topics in 2023 P1 Maths Term 2 Mini Test Ai Tong",
+      "nodes": [
+        "topic_28"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2023 P1 Maths Term 2 Mini Test Ai Tong.pdf"
+    },
+    {
+      "id": "hyper_2025 P1 Maths Quiz 3 Henry Park",
+      "label": "Topics in 2025 P1 Maths Quiz 3 Henry Park",
+      "nodes": [
+        "topic_30",
+        "topic_22",
+        "topic_4",
+        "topic_14",
+        "topic_2",
+        "topic_3",
+        "topic_7",
+        "topic_6",
+        "topic_26",
+        "topic_9",
+        "topic_21"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 3 Henry Park.pdf"
+    },
+    {
+      "id": "hyper_2022 P1 Maths Review Assessment 2 Raffles Girls",
+      "label": "Topics in 2022 P1 Maths Review Assessment 2 Raffles Girls",
+      "nodes": [
+        "topic_32",
+        "topic_33"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2022 P1 Maths Review Assessment 2 Raffles Girls.pdf"
+    },
+    {
+      "id": "hyper_2025 P1 Maths Quiz 2 Henry Park",
+      "label": "Topics in 2025 P1 Maths Quiz 2 Henry Park",
+      "nodes": [
+        "topic_22",
+        "topic_4",
+        "topic_14",
+        "topic_2",
+        "topic_12",
+        "topic_34",
+        "topic_3",
+        "topic_7",
+        "topic_6",
+        "topic_26",
+        "topic_9",
+        "topic_21"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2025 P1 Maths Quiz 2 Henry Park.pdf"
+    },
+    {
+      "id": "hyper_2024 P1 Maths Quiz 1 Henry Park",
+      "label": "Topics in 2024 P1 Maths Quiz 1 Henry Park",
+      "nodes": [
+        "topic_12",
+        "topic_3",
+        "topic_4",
+        "topic_14",
+        "topic_5",
+        "topic_6",
+        "topic_26",
+        "topic_7",
+        "topic_22",
+        "topic_9",
+        "topic_21"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Quiz 1 Henry Park.pdf"
+    },
+    {
+      "id": "hyper_2022 P1 Maths Test 6 Scgs",
+      "label": "Topics in 2022 P1 Maths Test 6 Scgs",
+      "nodes": [
+        "topic_36"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2022 P1 Maths Test 6 Scgs.pdf"
+    },
+    {
+      "id": "hyper_2024 P1 Maths Review 1 Maha Bodhi",
+      "label": "Topics in 2024 P1 Maths Review 1 Maha Bodhi",
+      "nodes": [
+        "topic_37",
+        "topic_38"
+      ],
+      "confidence": "EXTRACTED",
+      "source_file": "2024 P1 Maths Review 1 Maha Bodhi.pdf"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

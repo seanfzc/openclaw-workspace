@@ -1,0 +1,13 @@
+# Sample Problem Card – Bar Model
+id: Render-001
+title: "Parts A and B (2:1 ratio)"
+description: "Show two parts where Part A is twice as large as Part B."
+diagram_type: bar_model
+data:
+  labels: ["Part A", "Part B"]
+  values: [40, 20]
+  colors: ["#FFB6C1", "#98FB98"]  # pastel pink, pastel green
+notes: "Used in ratio word problems for P5/P6."
+created: 2026-04-12
+render_format: svg
+output_dir: rendering-stack/outputs/Render-001
