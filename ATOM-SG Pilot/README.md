@@ -18,12 +18,33 @@ This is the comprehensive vault for the ATOM-SG Pilot - a Recognition-First Inte
 ### Looking for specific information?
 | Need | Go To |
 |------|-------|
+| **Original exam papers** | [00-Original-Exam-Papers](00-Original-Exam-Papers/) — SOURCE OF TRUTH |
 | Complete framework taxonomy | [Framework Revision v2.0](00-Templates/ATOM-SG_FRAMEWORK_REVISION_v2.md) |
 | System gaps & recommendations | [Comprehensive Gap Analysis](00-Templates/COMPREHENSIVE_GAP_ANALYSIS.md) |
 | Diagram standards | [Visual Reconstruction Spec](00-Templates/Visual-Reconstruction-Spec.md) |
 | Task tracking | [Kanban](01-Projects/KANBAN.md) |
 | API documentation | [API.md](05-Backend/API.md) |
 | Deployment guide | [DEPLOYMENT.md](05-Backend/DEPLOYMENT.md) |
+
+---
+
+## ⚠️ IMPORTANT: Source of Truth Policy
+
+**ALL question selection and deconstruction must originate from `00-Original-Exam-Papers/`**
+
+This folder contains the authoritative copies of all original P6 prelim papers:
+- ACS Junior
+- Henry Park
+- Nan Hua
+- Nanyang
+- Raffles Girls
+
+**DO NOT** use the `exam_samples/` folder — it is deprecated and no longer maintained.
+
+When selecting questions:
+1. Reference the original PDF page number
+2. Use the extracted page images in `pdf_extracted_images/` for visual inspection
+3. Record the specific question number from the paper
 
 ---
 
@@ -43,6 +64,14 @@ ATOM-SG is an adaptive training system for Singapore PSLE P6 Mathematics, featur
 
 ```
 ATOM-SG Pilot/
+├── 00-Original-Exam-Papers/   # SOURCE OF TRUTH: Original P6 prelim papers
+│   ├── 2025-P6-Maths-Prelim Exam-ACS Junior.pdf
+│   ├── 2025-P6-Maths-Prelim Exam-Henry Park.pdf
+│   ├── 2025-P6-Maths-Prelim Exam-Nan Hua.pdf
+│   ├── 2025-P6-Maths-Prelim Exam-Nanyang.pdf
+│   ├── 2025-P6-Maths-Prelim Exam-Raffles Girls.pdf
+│   ├── pdf_extracted_images/  # Page-by-page images
+│   └── PAPER_ANALYSIS.md      # Paper structure analysis
 ├── 00-Templates/          # Templates and specifications
 │   ├── VERSION.md         # Version control
 │   ├── CHANGELOG.md       # Change history
