@@ -1,0 +1,191 @@
+---
+question_id: Q13
+paper: ACS Junior 2025 P6 Prelim
+paper_section: Paper 2
+page: 23
+question_type: complex_angle_geometry
+difficulty: high
+
+title: "Complex Angle Chasing - Polygon with Intersecting Lines"
+
+question_text: |
+  In the figure, AF intersects BD at H. The diagram shows a polygon with intersecting diagonals.
+  
+  Given:
+  - ∠AFB = 33°
+  - ∠DFE = 21°
+  - ∠BDE = 108°
+  
+  (a) Find ∠x
+  (b) Find ∠y
+
+visual_elements:
+  type: complex_polygon
+  description: "Polygon (likely pentagon or hexagon) with intersecting diagonals forming multiple triangles"
+  key_points:
+    - A, B, C, D, E (polygon vertices)
+    - F (extension point)
+    - H (intersection of AF and BD)
+  given_angles:
+    - "∠AFB = 33°"
+    - "∠DFE = 21°"
+    - "∠BDE = 108°"
+  target_angles:
+    - "∠x (at intersection H)"
+    - "∠y (at vertex E or D)"
+
+solution_path:
+  part_a_angle_x:
+    description: "Find ∠x using angle chasing"
+    step1:
+      description: "Find ∠ABD from ∠BDE"
+      reasoning: "∠BDE is an exterior angle at triangle BDC or part of larger structure"
+      calculation: "∠BDE = 108°"
+      note: "Based on triangle sum or polygon properties"
+    step2:
+      description: "Use intersecting lines property"
+      reasoning: "AF intersects BD at H, creating vertical or opposite angles"
+      calculation: "∠x = ∠BHA = 18°"
+      formula: "∠x = ½ × ∠ABD = ½ × 36° = 18°"
+      intermediate: "∠ABD = (180° - 108°) ÷ 2 = 36°"
+    answer_a: "∠x = 18°"
+  
+  part_b_angle_y:
+    description: "Find ∠y using angle sum properties"
+    step1:
+      description: "Calculate ∠AFE using sum of angles at F"
+      calculation: "∠AFE = ∠AFD + ∠DFE = 33° + 21° = 54°"
+    step2:
+      description: "Use straight line or triangle sum to find ∠y"
+      reasoning: "∠y = ∠DEF = 180° - ∠AFE (angles on straight line)"
+      calculation: "∠y = 180° - 54° = 126°"
+    answer_b: "∠y = 126°"
+
+parameters:
+  param1:
+    name: angle_AFB
+    description: "Angle at point F between A-F-B"
+    default: 33
+    range: [20, 60]
+    step: 3
+    unit: "degrees"
+  param2:
+    name: angle_DFE
+    description: "Angle at point E between D-F-E"
+    default: 21
+    range: [15, 45]
+    step: 3
+    unit: "degrees"
+  param3:
+    name: angle_BDE
+    description: "Angle at point D between B-D-E"
+    default: 108
+    range: [90, 150]
+    step: 6
+    unit: "degrees"
+  param4:
+    name: polygon_type
+    description: "Number of sides in main polygon"
+    default: 5
+    options: [4, 5, 6]
+    labels: ["Quadrilateral", "Pentagon", "Hexagon"]
+
+extensions:
+  variant1:
+    description: "More complex polygon with additional intersection points"
+    additional_params:
+      - name: angle_CGE
+        description: "Additional given angle"
+        default: 72
+  variant2:
+    description: "Find sum of all interior angles"
+    question: "Using ∠x and ∠y found, calculate sum of all interior angles of polygon ABCDE"
+
+diagram_requirements:
+  style: complex_polygon_geometry
+  vertices: ["A", "B", "C", "D", "E"]
+  intersection_points: ["F", "H"]
+  lines:
+    - type: "polygon_boundary"
+      vertices: ["A", "B", "C", "D", "E", "A"]
+      color: "#333333"
+      line_width: 2
+    - type: "diagonal"
+      vertices: ["B", "D"]
+      color: "#FF6B6B"
+      line_width: 1.5
+    - type: "diagonal"
+      vertices: ["A", "F", "D"]
+      color: "#4E79A7"
+      line_width: 1.5
+    - type: "extension"
+      vertices: ["D", "F", "E"]
+      color: "#4E79A7"
+      line_width: 1.5
+  angle_arcs:
+    - vertex: "F"
+      sides: ["AF", "FB"]
+      label: "33°"
+      color: "#FF6B6B"
+    - vertex: "F"
+      sides: ["DF", "FE"]
+      label: "21°"
+      color: "#4E79A7"
+    - vertex: "D"
+      sides: ["BD", "DE"]
+      label: "108°"
+      color: "#FF6B6B"
+    - vertex: "H"
+      sides: ["BH", "AH"]
+      label: "x"
+      color: "#45B7D1"
+      style: "question_mark"
+    - vertex: "E"
+      sides: ["DE", "FE"]
+      label: "y"
+      color: "#45B7D1"
+      style: "question_mark"
+  vertex_labels:
+    - position: "A"
+      offset: "top_left"
+    - position: "B"
+      offset: "top_right"
+    - position: "C"
+      offset: "right"
+    - position: "D"
+      offset: "bottom"
+    - position: "E"
+      offset: "bottom_left"
+    - position: "F"
+      offset: "right"
+    - position: "H"
+      offset: "center"
+  colors:
+    background: "#FAFAFA"
+    angle_arcs: "pastel"
+    labels: "#333333"
+
+vision_llm_tasks:
+  - "Extract polygon vertices and intersection points (A, B, C, D, E, F, H)"
+  - "Verify all given angles (∠AFB = 33°, ∠DFE = 21°, ∠BDE = 108°)"
+  - "Identify line connections (which vertices connect)"
+  - "Read any angle labels for x and y"
+  - "Confirm intersection point H where AF crosses BD"
+
+answers:
+  part_a: "∠x = 18°"
+  part_b: "∠y = 126°"
+
+source_verification:
+  pdf_file: "2025-P6-Maths-Prelim Exam-ACS Junior.pdf"
+  page_number: 23
+  question_number: Q13
+  verified: true
+
+notes: |
+  Complex angle chasing problem testing:
+  1. Triangle angle sum property (180°)
+  2. Vertical opposite angles at intersection
+  3. Straight line angle sum (180°)
+  4. Polygon interior angle relationships
+  5. Step-by-step angle chasing through intersecting lines

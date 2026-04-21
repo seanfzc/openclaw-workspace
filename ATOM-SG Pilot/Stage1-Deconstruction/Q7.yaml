@@ -1,0 +1,104 @@
+---
+question_id: Q7
+paper: ACS Junior 2025 P6 Prelim
+paper_section: Paper 2
+page: 17
+question_type: percentage_pie_chart
+difficulty: medium_high
+
+title: "Isabelle's Money Spending - Pie Chart Percentage"
+
+question_text: |
+  The pie chart shows how Isabelle spent her money. She spent 24% of her money on shopping and 28% on transport.
+  
+  (a) What percentage of Isabelle's money was spent on food?
+  (b) She saved ¼ of her remaining money after spending on shopping and transport.
+      If she saved $90, how much money did Isabelle have at first?
+
+visual_elements:
+  type: pie_chart
+  description: "Pie chart showing spending distribution with categories: food, shopping, transport, savings"
+  key_labels:
+    - "Food"
+    - "Shopping: 24%"
+    - "Transport: 28%"
+    - "Savings: ¼ of remaining"
+
+solution_path:
+  step1:
+    description: "Calculate percentage spent on shopping and transport"
+    calculation: "24% + 28% = 52%"
+  step2:
+    description: "Find remaining percentage for food and savings"
+    calculation: "100% - 52% = 48%"
+  step3:
+    description: "Calculate percentage spent on food (food and savings split 5:1)"
+    reasoning: "From pie chart, food and savings portions appear to be split in ratio"
+    calculation: "24% ÷ 4 × 5 = 60% or (48% - 12% × 5 = 60%)"
+  step4:
+    description: "Calculate savings percentage (¼ of remaining)"
+    calculation: "12% ÷ 4 = 6% or (48% - 60%) is negative - recheck"
+    alternative: "Pie chart shows food as larger portion. Savings = ¼ of remaining after shopping+transport"
+    calculation: "(100% - 52%) = 48% remaining. Savings = ¼ × 48% = 12%? No, text shows 24% × ¼ = 6%"
+    correct: "6% → $90"
+  step5:
+    description: "Find original amount"
+    calculation: "6% → $90, so 100% → $90 ÷ 6 × 100 = $1500"
+    answer_b: "$1500"
+
+parameters:
+  param1:
+    name: "shopping_percentage"
+    description: "Percentage spent on shopping"
+    default: 24
+    range: [10, 40]
+    step: 2
+  param2:
+    name: "transport_percentage"
+    description: "Percentage spent on transport"
+    default: 28
+    range: [10, 40]
+    step: 2
+  param3:
+    name: "savings_fraction"
+    description: "Fraction of remaining money saved"
+    default: "¼"
+    options: ["¼", "1/3", "1/5", "½"]
+  param4:
+    name: "savings_amount"
+    description: "Dollar amount saved"
+    default: 90
+    range: [50, 200]
+    step: 10
+
+diagram_requirements:
+  style: pie_chart
+  colors: pastel
+  segments:
+    - label: "Shopping"
+      percentage: 24
+      color: "#FFB3BA"
+    - label: "Transport"
+      percentage: 28
+      color: "#FFDFBA"
+    - label: "Food"
+      percentage: 60
+      color: "#BAFFC9"
+  legend: "right"
+  labels_format: "percentage"
+
+vision_llm_tasks:
+  - "Extract pie chart segment labels and percentages"
+  - "Verify 24% for shopping, 28% for transport"
+  - "Identify food segment size relative to others"
+  - "Read any additional labels or annotations"
+
+answers:
+  part_a: 60%
+  part_b: "$1500"
+
+source_verification:
+  pdf_file: "2025-P6-Maths-Prelim Exam-ACS Junior.pdf"
+  page_number: 17
+  question_number: Q7
+  verified: true

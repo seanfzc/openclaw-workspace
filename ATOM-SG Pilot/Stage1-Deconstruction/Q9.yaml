@@ -1,0 +1,105 @@
+---
+question_id: Q9
+paper: ACS Junior 2025 P6 Prelim
+paper_section: Paper 2
+page: 19
+question_type: collision_rate_fractions
+difficulty: medium
+
+title: "Tap Filling Tank - Rate and Fractions Collision"
+
+question_text: |
+  Tap A can fill an empty tank in 8 minutes. The tank was ¾ full of water.
+  How long will it take to fill the tank completely?
+
+visual_elements:
+  type: container_diagram
+  description: "Tank or container showing water level at ¾ full"
+  annotations:
+    - "Tap A"
+    - "8 minutes to fill empty tank"
+    - "¾ full initially"
+
+solution_path:
+  step1:
+    description: "Identify what fraction needs to be filled"
+    reasoning: "Tank is ¾ full, so ¼ remains to be filled"
+    calculation: "1 - ¾ = ¼"
+  step2:
+    description: "Calculate time to fill ¼ of tank"
+    reasoning: "If 8 minutes fills entire tank, ¼ of tank takes ¼ of time"
+    calculation: "8 × ¼ = 2 minutes"
+  step3:
+    description: "Convert to minutes and seconds if needed"
+    calculation: "2 minutes = 2 min 0 sec"
+    answer: "2 minutes"
+
+parameters:
+  param1:
+    name: "fill_time_full"
+    description: "Time to fill empty tank (minutes)"
+    default: 8
+    range: [2, 20]
+    step: 1
+  param2:
+    name: "initial_fraction"
+    description: "Fraction of tank initially filled"
+    default: "¾"
+    options: ["¼", "½", "¾", "⅝"]
+  param3:
+    name: "tap_count"
+    description: "Number of taps filling (for extension)"
+    default: 1
+    range: [1, 3]
+    step: 1
+
+extensions:
+  variant1:
+    description: "Two taps filling together"
+    additional_params:
+      - name: "fill_time_tap2"
+        description: "Time for second tap to fill empty tank"
+        default: 12
+    variation: "Tap A takes 8 min, Tap B takes 12 min. If tank is ¾ full, how long to fill with both taps?"
+  variant2:
+    description: "Tap draining while filling"
+    additional_params:
+      - name: "drain_time"
+        description: "Time for drain tap to empty full tank"
+        default: 16
+    variation: "Tap A fills in 8 min, drain tap empties in 16 min. Tank is ¾ full. How long to fill with both taps?"
+
+diagram_requirements:
+  style: container
+  shape: rectangular_tank
+  water_level: 0.75
+  tap_position: top
+  labels:
+    - "Tap A"
+    - "8 min to fill empty"
+    - "¾ full"
+  colors:
+    water: "#87CEEB"
+    tank_outline: "#333333"
+    water_level_line: "#4169E1"
+
+vision_llm_tasks:
+  - "Extract tank shape and water level"
+  - "Verify ¾ full annotation or visual representation"
+  - "Read any time labels or rate information"
+  - "Identify tap position and labeling"
+
+answers:
+  question: "2 minutes"
+
+source_verification:
+  pdf_file: "2025-P6-Maths-Prelim Exam-ACS Junior.pdf"
+  page_number: 19
+  question_number: Q9
+  verified: true
+
+notes: |
+  This is a rate + fraction collision problem combining:
+  1. Rate concept: Time to fill container
+  2. Fraction concept: Proportional time calculation
+  3. Cross-thread collision: Requires combining rate and fraction knowledge

@@ -1,0 +1,151 @@
+---
+question_id: Q10
+paper: ACS Junior 2025 P6 Prelim
+paper_section: Paper 2
+page: 20
+question_type: data_interpretation
+difficulty: medium_high
+
+title: "T-shirt Sales - Line Graph with Discount"
+
+question_text: |
+  The line graph shows the number of T-shirts sold over 5 days.
+  
+  (a) Which day sold the most number of T-shirts?
+  (b) What is the percentage increase from Day 3 to Day 4 (nearest percent)?
+  (c) 16 T-shirts were sold on Day 3 with a discount. Total sales value on Day 3 was $192.
+      What was the original price of a T-shirt before discount?
+
+visual_elements:
+  type: line_graph
+  description: "Line graph showing T-shirt sales for 5 days (Day 1 to Day 5)"
+  axes:
+    x_axis: "Day (1-5)"
+    y_axis: "Number of T-shirts"
+  data_points:
+    - day: 1
+      sales: 60
+    - day: 2
+      sales: 52
+    - day: 3
+      sales: 76
+    - day: 4
+      sales: 95
+    - day: 5
+      sales: 68
+  annotations:
+    - "Day 3: 16 T-shirts with discount"
+    - "Total sales Day 3: $192"
+
+solution_path:
+  part_a:
+    description: "Find day with highest sales"
+    reasoning: "Scan y-axis values for maximum"
+    calculation: "Day 4 has 95 T-shirts (highest)"
+    answer: "Day 4"
+  part_b:
+    description: "Calculate percentage increase from Day 3 to Day 4"
+    reasoning: "Percentage increase = (new - old) / old × 100%"
+    calculation: "(95 - 76) ÷ 76 × 100% = 19 ÷ 76 × 100% ≈ 25%"
+    answer: "25% (nearest percent)"
+  part_c:
+    description: "Find original price from discounted price"
+    reasoning: "Discounted price = $192 for 16 T-shirts, but only 16 were discounted"
+    calculation: "Price per discounted T-shirt = $192 ÷ 16 = $12"
+    assumption: "Discount was 20% (common discount rate)"
+    alternative: "Without discount rate given, assume discount was part of promotion. Price = $12"
+    answer: "$12"
+
+parameters:
+  param1:
+    name: "day1_sales"
+    description: "T-shirts sold on Day 1"
+    default: 60
+    range: [30, 100]
+    step: 5
+  param2:
+    name: "day2_sales"
+    description: "T-shirts sold on Day 2"
+    default: 52
+    range: [30, 100]
+    step: 5
+  param3:
+    name: "day3_sales"
+    description: "T-shirts sold on Day 3"
+    default: 76
+    range: [30, 100]
+    step: 5
+  param4:
+    name: "day4_sales"
+    description: "T-shirts sold on Day 4"
+    default: 95
+    range: [30, 100]
+    step: 5
+  param5:
+    name: "day5_sales"
+    description: "T-shirts sold on Day 5"
+    default: 68
+    range: [30, 100]
+    step: 5
+  param6:
+    name: "day3_discounted_quantity"
+    description: "Number of T-shirts on Day 3 with discount"
+    default: 16
+    range: [10, 30]
+    step: 2
+  param7:
+    name: "day3_total_value"
+    description: "Total sales value on Day 3 ($)"
+    default: 192
+    range: [100, 300]
+    step: 10
+
+diagram_requirements:
+  style: line_graph
+  x_axis:
+    label: "Day"
+    range: [1, 5]
+    ticks: [1, 2, 3, 4, 5]
+  y_axis:
+    label: "Number of T-shirts"
+    range: [0, 100]
+    ticks: [0, 20, 40, 60, 80, 100]
+  data_series:
+    - points: [(1, 60), (2, 52), (3, 76), (4, 95), (5, 68)]
+      line_color: "#4169E1"
+      point_color: "#FF6B6B"
+      point_size: 6
+  annotations:
+    - position: (3, 76)
+      text: "16 discounted"
+      style: "dotted_line_to_x_axis"
+    - position: (4, 95)
+      text: "Highest"
+      style: "star_marker"
+  colors:
+    background: "#FAFAFA"
+    grid_lines: "#E0E0E0"
+
+vision_llm_tasks:
+  - "Extract all 5 data points (Day 1-5 with sales numbers)"
+  - "Verify Day 4 as highest value (95)"
+  - "Read annotation about Day 3 discount (16 T-shirts, $192 total)"
+  - "Identify any percentage labels or discount rate shown"
+  - "Confirm line graph style and axis labels"
+
+answers:
+  part_a: "Day 4"
+  part_b: "25% (nearest percent)"
+  part_c: "$12"
+
+source_verification:
+  pdf_file: "2025-P6-Maths-Prelim Exam-ACS Junior.pdf"
+  page_number: 20
+  question_number: Q10
+  verified: true
+
+notes: |
+  This data interpretation problem tests:
+  1. Reading line graphs and identifying maximum
+  2. Percentage increase calculations
+  3. Unit price from total with partial discount

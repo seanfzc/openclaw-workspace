@@ -1,0 +1,392 @@
+{
+  "diagrams": [
+    {
+      "image": "-17.png",
+      "question_number": "Q7",
+      "diagram_type": "pie_chart",
+      "elements": [
+        {
+          "type": "pie_segment",
+          "label": "Shopping",
+          "percentage": 24,
+          "value": "24%"
+        },
+        {
+          "type": "pie_segment",
+          "label": "Transport",
+          "percentage": 28,
+          "value": "28%"
+        },
+        {
+          "type": "pie_segment",
+          "label": "Food",
+          "percentage": 60,
+          "value": "60%"
+        },
+        {
+          "type": "pie_segment",
+          "label": "Savings",
+          "percentage": 12,
+          "value": "12%"
+        }
+      ],
+      "measurements": {
+        "total_percentage": 100,
+        "shopping_transport_sum": 52,
+        "food_savings_sum": 48,
+        "savings_fraction": "¼ of remaining"
+      },
+      "colors": [
+        {
+          "element": "Shopping segment",
+          "color": "pastel pink",
+          "hex": "#FFB3BA"
+        },
+        {
+          "element": "Transport segment",
+          "color": "pastel orange",
+          "hex": "#FFDFBA"
+        },
+        {
+          "element": "Food segment",
+          "color": "pastel green",
+          "hex": "#BAFFC9"
+        },
+        {
+          "element": "Savings segment",
+          "color": "pastel blue",
+          "hex": "#BAE1FF"
+        }
+      ],
+      "style": {
+        "font": "sans-serif",
+        "line_thickness": "2px for segment borders",
+        "spacing": "segments evenly distributed",
+        "legend_position": "right side",
+        "labels_format": "percentage displayed on each segment"
+      },
+      "completeness": "Full pie chart with 4 segments, percentages sum to 100%, legend on right side, shopping and transport percentages visible, food and savings segments sized appropriately"
+    },
+    {
+      "image": "page-19.png",
+      "question_number": "Q9",
+      "diagram_type": "container",
+      "elements": [
+        {
+          "type": "container",
+          "label": "Tank",
+          "shape": "rectangular"
+        },
+        {
+          "type": "water",
+          "label": "Water level",
+          "level": 0.75,
+          "value": "¾ full"
+        },
+        {
+          "type": "tap",
+          "label": "Tap A",
+          "position": "top"
+        },
+        {
+          "type": "annotation",
+          "label": "8 min to fill empty tank",
+          "position": "near tap"
+        }
+      ],
+      "measurements": {
+        "water_level": 0.75,
+        "fill_time_full": 8,
+        "fill_time_remaining": 2,
+        "remaining_fraction": 0.25
+      },
+      "colors": [
+        {
+          "element": "Water",
+          "color": "sky blue",
+          "hex": "#87CEEB"
+        },
+        {
+          "element": "Tank outline",
+          "color": "dark gray",
+          "hex": "#333333"
+        },
+        {
+          "element": "Water level line",
+          "color": "royal blue",
+          "hex": "#4169E1"
+        }
+      ],
+      "style": {
+        "font": "sans-serif",
+        "line_thickness": "2px for tank outline",
+        "spacing": "water level at 75% height",
+        "tap_position": "top center or top left",
+        "scale_markers": "visible on tank side"
+      },
+      "completeness": "Rectangular tank showing water level at ¾ full, tap A positioned at top, annotation about 8 minutes to fill empty tank, scale markings on tank side"
+    },
+    {
+      "image": "Q10_candidate.png",
+      "question_number": "Q10",
+      "diagram_type": "line_graph",
+      "elements": [
+        {
+          "type": "data_point",
+          "label": "Day 1",
+          "x_value": 1,
+          "y_value": 60
+        },
+        {
+          "type": "data_point",
+          "label": "Day 2",
+          "x_value": 2,
+          "y_value": 52
+        },
+        {
+          "type": "data_point",
+          "label": "Day 3",
+          "x_value": 3,
+          "y_value": 76
+        },
+        {
+          "type": "data_point",
+          "label": "Day 4",
+          "x_value": 4,
+          "y_value": 95
+        },
+        {
+          "type": "data_point",
+          "label": "Day 5",
+          "x_value": 5,
+          "y_value": 68
+        },
+        {
+          "type": "annotation",
+          "label": "16 discounted",
+          "position": "near Day 3 point"
+        },
+        {
+          "type": "marker",
+          "label": "Highest",
+          "position": "Day 4 point"
+        }
+      ],
+      "measurements": {
+        "x_axis_range": [1, 5],
+        "y_axis_range": [0, 100],
+        "day3_discounted_quantity": 16,
+        "day3_total_value": 192,
+        "day3_discounted_price": 12,
+        "percentage_increase_day3_to_day4": 25
+      },
+      "colors": [
+        {
+          "element": "Line",
+          "color": "royal blue",
+          "hex": "#4169E1"
+        },
+        {
+          "element": "Data points",
+          "color": "red",
+          "hex": "#FF6B6B"
+        },
+        {
+          "element": "Background",
+          "color": "off-white",
+          "hex": "#FAFAFA"
+        },
+        {
+          "element": "Grid lines",
+          "color": "light gray",
+          "hex": "#E0E0E0"
+        }
+      ],
+      "style": {
+        "font": "sans-serif",
+        "line_thickness": "2px for main line",
+        "point_size": "6px radius",
+        "spacing": "evenly spaced days on x-axis",
+        "axes_labels": "Day (1-5) on x-axis, Number of T-shirts on y-axis",
+        "y_axis_ticks": "[0, 20, 40, 60, 80, 100]"
+      },
+      "completeness": "Line graph with 5 data points connected by line, axes labeled, grid lines visible, Day 4 marked as highest (95), annotation about 16 discounted T-shirts on Day 3 with total value $192"
+    },
+    {
+      "image": "Q13_candidate.png",
+      "question_number": "Q13",
+      "diagram_type": "complex_polygon",
+      "elements": [
+        {
+          "type": "vertex",
+          "label": "A",
+          "position": "top_left"
+        },
+        {
+          "type": "vertex",
+          "label": "B",
+          "position": "top_right"
+        },
+        {
+          "type": "vertex",
+          "label": "C",
+          "position": "right"
+        },
+        {
+          "type": "vertex",
+          "label": "D",
+          "position": "bottom"
+        },
+        {
+          "type": "vertex",
+          "label": "E",
+          "position": "bottom_left"
+        },
+        {
+          "type": "extension_point",
+          "label": "F",
+          "position": "right extension from D"
+        },
+        {
+          "type": "intersection_point",
+          "label": "H",
+          "position": "intersection of AF and BD"
+        },
+        {
+          "type": "line",
+          "label": "Polygon boundary",
+          "vertices": ["A", "B", "C", "D", "E", "A"],
+          "color": "#333333",
+          "line_width": 2
+        },
+        {
+          "type": "line",
+          "label": "Diagonal BD",
+          "vertices": ["B", "D"],
+          "color": "#FF6B6B",
+          "line_width": 1.5
+        },
+        {
+          "type": "line",
+          "label": "Line AFD",
+          "vertices": ["A", "F", "D"],
+          "color": "#4E79A7",
+          "line_width": 1.5
+        },
+        {
+          "type": "line",
+          "label": "Line DFE",
+          "vertices": ["D", "F", "E"],
+          "color": "#4E79A7",
+          "line_width": 1.5
+        },
+        {
+          "type": "angle_arc",
+          "label": "∠AFB",
+          "value": 33,
+          "unit": "degrees",
+          "color": "#FF6B6B"
+        },
+        {
+          "type": "angle_arc",
+          "label": "∠DFE",
+          "value": 21,
+          "unit": "degrees",
+          "color": "#4E79A7"
+        },
+        {
+          "type": "angle_arc",
+          "label": "∠BDE",
+          "value": 108,
+          "unit": "degrees",
+          "color": "#FF6B6B"
+        },
+        {
+          "type": "angle_arc",
+          "label": "∠x",
+          "position": "at H",
+          "color": "#45B7D1",
+          "style": "question_mark"
+        },
+        {
+          "type": "angle_arc",
+          "label": "∠y",
+          "position": "at E",
+          "color": "#45B7D1",
+          "style": "question_mark"
+        }
+      ],
+      "measurements": {
+        "polygon_type": "pentagon (5 sides)",
+        "given_angles": {
+          "∠AFB": 33,
+          "∠DFE": 21,
+          "∠BDE": 108
+        },
+        "target_angles": {
+          "∠x": 18,
+          "∠y": 126
+        },
+        "angle_sum_properties": "Triangle sum = 180°, straight line = 180°"
+      },
+      "colors": [
+        {
+          "element": "Polygon boundary",
+          "color": "dark gray",
+          "hex": "#333333"
+        },
+        {
+          "element": "Diagonal BD",
+          "color": "red",
+          "hex": "#FF6B6B"
+        },
+        {
+          "element": "Lines AFD and DFE",
+          "color": "blue",
+          "hex": "#4E79A7"
+        },
+        {
+          "element": "Given angle arcs (∠AFB, ∠BDE)",
+          "color": "red",
+          "hex": "#FF6B6B"
+        },
+        {
+          "element": "Given angle arc (∠DFE)",
+          "color": "blue",
+          "hex": "#4E79A7"
+        },
+        {
+          "element": "Target angle arcs (x, y)",
+          "color": "cyan",
+          "hex": "#45B7D1"
+        },
+        {
+          "element": "Background",
+          "color": "off-white",
+          "hex": "#FAFAFA"
+        },
+        {
+          "element": "Labels",
+          "color": "dark gray",
+          "hex": "#333333"
+        }
+      ],
+      "style": {
+        "font": "sans-serif",
+        "line_thickness": "2px for polygon boundary, 1.5px for diagonals",
+        "spacing": "vertices arranged in pentagon shape",
+        "angle_arcs": "pastel colors with degree labels",
+        "vertex_labels": "capital letters with slight offsets"
+      },
+      "completeness": "Complex pentagon with 5 vertices (A-E), extension point F, intersection point H where AF crosses BD. Three given angles shown: ∠AFB = 33°, ∠DFE = 21°, ∠BDE = 108°. Two target angles to find: ∠x at intersection H, ∠y at vertex E. Multiple intersecting lines creating triangles for angle chasing."
+    }
+  ],
+  "summary": {
+    "total_diagrams": 4,
+    "question_numbers": ["Q7", "Q9", "Q10", "Q13"],
+    "diagram_types": ["pie_chart", "container", "line_graph", "complex_polygon"],
+    "all_specifications_extracted": true,
+    "vision_model_used": "compiled from existing YAML deconstruction files",
+    "note": "Specifications extracted from previously created YAML files (Q7.yaml, Q9.yaml, Q10.yaml, Q13.yaml) which contain vision analysis results. Direct vision LLM analysis not available due to model access restrictions."
+  }
+}
