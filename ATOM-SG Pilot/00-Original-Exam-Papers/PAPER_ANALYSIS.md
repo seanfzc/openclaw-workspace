@@ -39,7 +39,6 @@ Based on SOR v4.5 requirements, we need 4 diverse questions covering:
 ## 📁 Available Resources
 
 - **Original PDF:** `2025-P6-Maths-Prelim Exam-ACS Junior.pdf`
-- **Page preview:** `acs_junior_page2_preview.png` (for reference only)
 
 ---
 
@@ -48,7 +47,8 @@ Based on SOR v4.5 requirements, we need 4 diverse questions covering:
 - **ALWAYS work from the original PDF file** for accurate question reference
 - **Generate fresh extractions** as needed - do not reuse compromised data
 - **Verify question numbers** exist in the paper before deconstruction
-- **Reference page numbers** from the PDF, not derived sources
+- **Reference page numbers** from the PDF
+- **Generate fresh extractions** for any analysis
 
 ---
 

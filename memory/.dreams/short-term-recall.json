@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19T07:23:21.763Z",
+  "updatedAt": "2026-04-21T05:19:34.050Z",
   "entries": {
     "memory:memory/2026-04-08.md:521:532": {
       "key": "memory:memory/2026-04-08.md:521:532",
@@ -825,19 +825,21 @@
       "endLine": 48,
       "source": "memory",
       "snippet": "# 2026-04-14 — ATOM-SG Model Usage Policy Created ## Context Sean requested a model usage prioritization framework for all ATOM-SG sub-agents (GeoBot, RenderBot, OcrBot, BackendBot, MVPBot, DashBot). ## Work Completed ### 1. Created Model Usage Policy **File:** `ATOM-SG Pilot/MODEL_USAGE_POLICY.md` **Model Tiers Defined:** - **🟢 GLM Flash (glm-4.7-flashx):** $0.06/M in, $0.40/M out - Use for: Basic/template tasks, simple I/O, low-stakes decisions - **🔵 GLM 4.7:** $0.60/M in, $2.20/M out - Use for: Standard tasks requiring moderate reasoning - **🟣 GLM 5.1:** $1.20/M in, $4.00/M out - Use for: Complex reasoning, strategic thinking, high-stakes decisions ### 2. Sub-Agent Specific",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.4516917484086762,
-      "maxScore": 0.7891438614349403,
+      "totalScore": 2.242565161354209,
+      "maxScore": 0.7908734129455327,
       "firstRecalledAt": "2026-04-19T02:00:55.701Z",
-      "lastRecalledAt": "2026-04-19T07:23:21.763Z",
+      "lastRecalledAt": "2026-04-21T05:19:34.050Z",
       "queryHashes": [
         "a6f6de88e930",
-        "54ad4451be16"
+        "54ad4451be16",
+        "577a77046a70"
       ],
       "recallDays": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-21"
       ],
       "conceptTags": [
         "atom-sg",
@@ -950,18 +952,20 @@
       "endLine": 104,
       "source": "memory",
       "snippet": "- Increased working space per question (0.7 inch, up from 0.4 inch) - Added separate Diagram Sheets for Geometry (12 diagrams) and Data Interpretation (8 charts) - Added visual placeholders noting \"See separate diagram sheet\" - PDF now 19KB with additional pages for diagrams - Total pages: ~8-10 (3 question pages + 2-3 diagram pages + answer key) **Updates (2026-04-19 07:52):** - Created NEW PDF with **embedded visuals** inline with questions - **14 questions now have diagrams/charts** embedded directly: - Geometry: Angle diagrams, triangle, rectangle, cuboid, circle - Data Interpretation: Bar charts, line graphs, pie charts - Diagrams render using matplotlib and embed as images in PDF",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.7698560733875162,
-      "maxScore": 0.7698560733875162,
+      "totalScore": 1.548570531923819,
+      "maxScore": 0.7787144585363028,
       "firstRecalledAt": "2026-04-19T07:23:21.763Z",
-      "lastRecalledAt": "2026-04-19T07:23:21.763Z",
+      "lastRecalledAt": "2026-04-21T05:19:34.050Z",
       "queryHashes": [
-        "54ad4451be16"
+        "54ad4451be16",
+        "577a77046a70"
       ],
       "recallDays": [
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-21"
       ],
       "conceptTags": [
         "0.7",
@@ -972,6 +976,68 @@
         "increased",
         "working",
         "space"
+      ]
+    },
+    "memory:memory/2026-04-17.md:37:86": {
+      "key": "memory:memory/2026-04-17.md:37:86",
+      "path": "memory/2026-04-17.md",
+      "startLine": 37,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "1. **Critical vs UI Tests:** - Critical tests (23) validate system behavior — must pass every commit - UI tests (67) validate rendering — should pass pre-merge - Live API tests (4) validate LLM quality — manual only 2. **Mock API Strategy:** - Predictable responses for reliable testing - No flaky tests from LLM variations - No burned API credits - Fast execution (~1 min critical, ~5 min full) 3. **Separation of Concerns:** - Critical tests → System works with any valid response - Live API tests → LLM generates good responses ### Files Created | File | Purpose | |------|---------| | `playwright-tests/README.md` | Quick start guide | | `playwright-tests/TEST_STRA",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7821991867005456,
+      "maxScore": 0.7821991867005456,
+      "firstRecalledAt": "2026-04-21T05:19:34.050Z",
+      "lastRecalledAt": "2026-04-21T05:19:34.050Z",
+      "queryHashes": [
+        "577a77046a70"
+      ],
+      "recallDays": [
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "pre-merge",
+        "playwright-tests/readme.md",
+        "playwright-tests/test-stra",
+        "critical",
+        "tests",
+        "validate",
+        "system",
+        "behavior"
+      ]
+    },
+    "memory:memory/2026-04-19.md:97:137": {
+      "key": "memory:memory/2026-04-19.md:97:137",
+      "path": "memory/2026-04-19.md",
+      "startLine": 97,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "**Context:** Comprehensive analysis of ATOM-SG pilot documentation against actual PSLE exam papers from 5 elite schools (ACS Junior, Nanyang, Henry Park, Nan Hua, Raffles Girls) ### Key Findings 1. **Current baseline test covers only ~40% of exam content** - Word problems too simple (1-2 concepts vs 3-4 fused in exams) - Missing 4 critical geometry pathways - No formal Data Interpretation pathway - Visual quality below exam standard 2. **Documentation Created:** - `00-Templates/ATOM-SG_FRAMEWORK_REVISION_v2.md` (15 pages) - `00-Templates/Visual-Reconstruction-Spec.md` (standard format for diagrams) 3. **Critical Gaps Identified:** - **G5: Composite Overlap** - overla",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7377135099267458,
+      "maxScore": 0.7377135099267458,
+      "firstRecalledAt": "2026-04-21T05:19:34.050Z",
+      "lastRecalledAt": "2026-04-21T05:19:34.050Z",
+      "queryHashes": [
+        "577a77046a70"
+      ],
+      "recallDays": [
+        "2026-04-21"
+      ],
+      "conceptTags": [
+        "atom-sg",
+        "1-2",
+        "3-4",
+        "context",
+        "comprehensive",
+        "analysis",
+        "atom",
+        "pilot"
       ]
     }
   }

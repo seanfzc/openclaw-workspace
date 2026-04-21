@@ -22,7 +22,7 @@ All 5 P6 Prelim Exam papers (2025):
 ## Working with the PDFs
 
 ### To view and analyze questions:
-1. Open the relevant PDF file
+1. Open the relevant PDF file using a PDF reader
 2. Navigate to the page containing the question
 3. Note the question number from the paper
 4. Record the page number for reference
@@ -30,7 +30,7 @@ All 5 P6 Prelim Exam papers (2025):
 ### To extract data:
 - Use PDF reading tools (Preview, Adobe Reader, etc.)
 - For page images, use PDF-to-image conversion tools as needed
-- All extractions should be generated fresh from the source PDFs
+- **All extractions must be generated fresh from the source PDFs**
 
 ## Paper Analysis
 
