@@ -1,14 +1,12 @@
 # ACS Junior 2025 P6 Prelim - Question Catalog
 
 **Paper:** ACS Junior 2025 P6 Prelim Exam
-**Total Pages:** 42
+**File:** `2025-P6-Maths-Prelim Exam-ACS Junior.pdf`
 **Analysis Date:** 2026-04-21
 
 ---
 
 ## 📋 Paper Structure
-
-Based on visual inspection of extracted pages:
 
 ### Paper 1 (Pages ~1-10)
 - Booklet A: Multiple Choice Questions
@@ -20,39 +18,9 @@ Based on visual inspection of extracted pages:
 
 ---
 
-## 🔍 Sample Questions Identified
+## 🎯 Recommended Questions for Focused MVP
 
-### Geometry Questions (Preliminary Analysis)
-
-**Page 10:**
-- Pattern recognition with squares
-- Area/perimeter problems
-- Angle measurement
-
-**Page 14:**
-- Composite area calculations
-- Overlapping shapes
-- Geometric properties
-
-**Page 15:**
-- Grid-based symmetry patterns
-- Area calculations with shaded regions
-
----
-
-## ⚠️ IMPORTANT NOTE
-
-**Q25 and Q26 DO NOT EXIST** in the ACS Junior paper as analyzed.
-
-The previous deconstruction of "Q25" and "Q26" was based on hallucinated data from QA Bot. These question numbers were fabricated.
-
----
-
-## 🎯 Next Steps for Focused MVP
-
-### Questions Available for Selection
-
-From the visual inspection, we need to select 4 questions covering:
+Based on SOR v4.5 requirements, we need 4 diverse questions covering:
 
 1. **Complex Geometry** — Overlapping shapes, composite areas
 2. **3D Geometry** — Volume, nets, surface area
@@ -61,9 +29,9 @@ From the visual inspection, we need to select 4 questions covering:
 
 ### Selection Process
 
-1. **Review the actual paper pages** in `pdf_extracted_images/`
+1. **Review the actual PDF** - `2025-P6-Maths-Prelim Exam-ACS Junior.pdf`
 2. **Identify specific question numbers** from the paper
-3. **Select 4 diverse questions** covering the above categories
+3. **Select 4 diverse questions** covering the categories above
 4. **Begin Stage 1 deconstruction** with verified sources
 
 ---
@@ -71,9 +39,17 @@ From the visual inspection, we need to select 4 questions covering:
 ## 📁 Available Resources
 
 - **Original PDF:** `2025-P6-Maths-Prelim Exam-ACS Junior.pdf`
-- **Extracted Pages:** `pdf_extracted_images/acs_page-XXX.png`
-- **Page previews:** Individual page images for inspection
+- **Page preview:** `acs_junior_page2_preview.png` (for reference only)
 
 ---
 
-**Action Required:** Review the extracted page images and select 4 specific questions for the focused MVP deconstruction.
+## ⚠️ Usage Notes
+
+- **ALWAYS work from the original PDF file** for accurate question reference
+- **Generate fresh extractions** as needed - do not reuse compromised data
+- **Verify question numbers** exist in the paper before deconstruction
+- **Reference page numbers** from the PDF, not derived sources
+
+---
+
+**Action Required:** Review the original PDF and select 4 specific questions for the focused MVP deconstruction.

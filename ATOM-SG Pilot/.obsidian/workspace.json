@@ -186,6 +186,11 @@
   },
   "active": "71740c306ccb255f",
   "lastOpenFiles": [
+    "00-Original-Exam-Papers/pdf_page014.txt",
+    "00-Original-Exam-Papers/pdf_page013.txt",
+    "00-Original-Exam-Papers/pdf_page012.txt",
+    "00-Original-Exam-Papers/pdf_page011.txt",
+    "00-Original-Exam-Papers/pdf_page010.txt",
     "00-Original-Exam-Papers/PAPER_ANALYSIS.md",
     "00-Original-Exam-Papers/pdf_extracted_images/acs_page-010.png",
     "00-Original-Exam-Papers/pdf_extracted_images/acs_page-004.png",
@@ -204,12 +209,8 @@
     "00-Original-Exam-Papers/2025-P6-Maths-Prelim Exam-Nan Hua.pdf",
     "00-Original-Exam-Papers/2025-P6-Maths-Prelim Exam-Henry Park.pdf",
     "00-Original-Exam-Papers/2025-P6-Maths-Prelim Exam-ACS Junior.pdf",
-    "00-Original-Exam-Papers",
     "Stage1-Deconstruction/REVIEW_REQUEST.md",
-    "Stage1-Deconstruction/render_Q26.py",
-    "Stage1-Deconstruction/render_Q25.py",
     "Stage1-Deconstruction/STAGE1_SUMMARY.md",
-    "Stage1-Deconstruction/Q26.yaml",
     "topics/54-qa-testing.md",
     "topics/53-intervention.md",
     "topics/52-baseline-generation.md",
@@ -230,7 +231,6 @@
     "02-Geometry/DECONSTRUCTED_DATA_NEW_APPROACH.md",
     "00-Templates/MATH_VISUAL_AUDIT_REVIEWER.md",
     "00-Templates/MATH_DIAGRAM_AUDIT_INSTRUCTION.md",
-    "00-Templates/MATH_DIAGRAM_RENDERING_INSTRUCTION.md",
-    "01-Projects/VISUAL_ERRORS_LEARNINGS.md"
+    "00-Templates/MATH_DIAGRAM_RENDERING_INSTRUCTION.md"
   ]
 }
